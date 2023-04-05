@@ -1,4 +1,4 @@
 from users import user
 
-class Professional(user):
+class Client(user):
     pass
