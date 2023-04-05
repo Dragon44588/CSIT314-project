@@ -1,3 +1,6 @@
+from users import *
+from professionals import *
+
 spacer = "-"*50
 
 
@@ -29,5 +32,5 @@ def loginTrade():
     print("Tradie login")
     print(spacer)
 
-if __name__ == "__main__":
+if __name__ == "__main__":   
     index()
