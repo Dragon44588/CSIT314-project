@@ -1,10 +1,16 @@
 from users import *
 from professionals import *
+from client import *
 
 spacer = "-"*50
 
 
 def index():
+
+    #default user and tradie for testing purposes
+    testUser = Client(1, 100, False, 10, 20)
+    testTradie = Professional(2, 0, False, 0, 50) 
+
     while True:
 
         print(spacer)
