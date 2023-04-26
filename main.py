@@ -7,6 +7,11 @@ spacer = "-"*50
 
 def index():
 
+    ##testing data
+    #default user and tradie for testing purposes
+    testUser = Client(1, 100, False, 10, 20)
+    testTradie = Professional(2, 0, False, 20, 50, 0, 0, 0, 0, 0, 0) 
+
     while True:
 
         print(spacer)
