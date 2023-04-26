@@ -11,3 +11,27 @@ class User:
         
     def setId(self, id):
         self.id = id
+        
+    def getBal(self):
+        return self.balance
+    
+    def setBal(self, balance):
+        self.balance = balance   
+        
+    def subStatus(self):
+        return self.subscriber
+    
+    def setSubStatus(self, isSubbed):
+        self.subscriber = isSubbed
+        
+    def getXCoord(self):
+        return self.xcoord
+    
+    def setXCoord(self, xcoord):
+        self.xcoord = xcoord
+        
+    def getYCoord(self):
+        return self.ycoord
+    
+    def setYCoord(self, ycoord):
+        self.ycoord = ycoord
