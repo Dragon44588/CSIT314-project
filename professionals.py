@@ -37,4 +37,4 @@ class Professional(User):
         return self.nextEvent
     
     def calculateTravel(self, clientXCoord, clientYCoord):
-        return sqrt((clientXCoord - self.xcoord)**2 + (clientYCoord - self.ycoord)**2)
+        return round(sqrt((clientXCoord - self.xcoord)**2 + (clientYCoord - self.ycoord)**2), 2)
