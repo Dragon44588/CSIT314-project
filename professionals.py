@@ -2,20 +2,23 @@ from users import User
 from math import sqrt
 
 class Professional(User):
-    def __init__(self, id, name, balance, subscriber, xcoord, ycoord, nextEvent, skill, reliability, speed, rating, amountRated):
+    def __init__(self, id, name, balance, subscriber, xcoord, ycoord, skill, reliability, speed):
         self.id = id
         self.name = name
         self.balance = balance
         self.subscriber = subscriber
         self.xcoord = xcoord
         self.ycoord = ycoord
-        self.nextEvent = nextEvent
+        self.nextEvent = None
         self.skill = skill
         self.reliability = reliability
         self.speed = speed
-        self.rating = rating
-        self.amountRated = amountRated
+        self.rating = 0
+        self.amountRated = 0
         
+    def __str__(self):
+        return "ID: {:<2} Name: {:<10} Bal: ${:<5} Sub Status: {:<2} X-Coord: {:<3} Y-Coord: {:<3} Next Event: {} Skill: {:<3} Reliability: {:<3} Speed: {:<2} Rating: {:<3} Ammount Rated: {:<3}".format(self.id, self.name, self.balance, self.subscriber, self.xcoord, self.ycoord, self.nextEvent, self.skill, self.reliability, self.speed, self.rating, self.amountRated)
+
     def getSkill(self):
         return self.skill
     

@@ -10,7 +10,8 @@ class Client(User):
         self.ycoord = ycoord
         self.jobs = []
 
-    
+    def __str__(self):
+        return "ID: {:<2} Name: {:<20} Balance: {:<5} Subscriber Status: {:<3} X-Coordinate: {:<3} Y-Coordinate: {:<3} Jobs: {}".format(self.id, self.name, self.balance, self.subscriber, self.xcoord, self.ycoord, self.jobs)
 
     def subscribe(self):
         print("Currently a subscriber?: {}".format(self.subStatus))

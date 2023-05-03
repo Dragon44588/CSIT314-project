@@ -43,25 +43,44 @@ buisnessTags = ['Inc', 'PTY LTD', 'LTD', 'Limited']
 def generator(numUsers, numPros, numEvents):
     ID = 1
     clients = []
-    for i in range(1, numUsers + 1):
+    professionals = []
+    for i in range(0, numUsers):
+        client = generateUser(ID)
+        clients.append(client)
+        ID += 1    
+    
+    for i in range(0, numPros):
+        professional = generateProfessionals(ID)
+        professionals.append(professional)
+        ID += 1
+
+    print("clients")
+    print()
+    for i in clients:
+        print(i)
+    
+    print()
+    print("Professionals")
+    print()
+    for i in professionals:
+        print(i)        
+
+def generateUser(id):
         name = ("{} {}".format(random.choice(userNames), random.choice(userNames)))
         sub = random.randint(0, 1)
         if sub == 1:
             sub = False
         else:
             sub = True
-        client  = Client(ID, name, 100, sub, random.randint(0, 100), random.randint(0, 100))
-        clients.append(client)
+        return Client(id, name, 100, sub, random.randint(0, 100), random.randint(0, 100))
 
-        for i in clients:
-            print(i)
-    
+def generateProfessionals(id):
+    name = ("{} {}".format(random.choice(buisnessNames), random.choice(buisnessTags)))
+    sub = random.randint(0, 1)
+    if sub == 1:
+        sub = False
+    else:
+        sub = True
+    return Professional(id, name, 100, sub, random.randint(0, 100), random.randint(0, 100), random.randint(0, 100), random.randint(0, 100), random.randint(0, 100))
 
-
-def generateUser():
-    print("gen")
-
-def generateProfessionals():
-    print("gen")
-
-generator(10, 0, 0)
+generator(20, 20, 0)
