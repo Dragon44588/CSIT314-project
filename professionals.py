@@ -2,8 +2,9 @@ from users import User
 from math import sqrt
 
 class Professional(User):
-    def __init__(self, id, balance, subscriber, xcoord, ycoord, nextEvent, skill, reliability, speed, rating, amountRated):
+    def __init__(self, id, name, balance, subscriber, xcoord, ycoord, nextEvent, skill, reliability, speed, rating, amountRated):
         self.id = id
+        self.name = name
         self.balance = balance
         self.subscriber = subscriber
         self.xcoord = xcoord

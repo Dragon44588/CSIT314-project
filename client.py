@@ -1,8 +1,9 @@
 from users import User
 
 class Client(User):
-    def __init__(self, id, balance, subscriber, xcoord, ycoord):
+    def __init__(self, id, name, balance, subscriber, xcoord, ycoord):
         self.id = id
+        self.name = name
         self.balance = balance
         self.subscriber = subscriber
         self.xcoord = xcoord
