@@ -2,23 +2,22 @@ from users import User
 from math import sqrt
 
 class Professional(User):
-    def __init__(self, id, name, balance, subscriber, xcoord, ycoord, skill, reliability, speed):
+    def __init__(self, id, balance, subscriber, xcoord, ycoord, currentEvent, nextEvent, skill, reliability, speed, rating, amountRated, trade):
         self.id = id
-        self.name = name
         self.balance = balance
         self.subscriber = subscriber
         self.xcoord = xcoord
         self.ycoord = ycoord
-        self.nextEvent = None
+        self.currentEvent = currentEvent
+        self.nextEvent = nextEvent
         self.skill = skill
         self.reliability = reliability
         self.speed = speed
-        self.rating = 0
-        self.amountRated = 0
-        
-    def __str__(self):
-        return "ID: {:<2} Name: {:<10} Bal: ${:<5} Sub Status: {:<2} X-Coord: {:<3} Y-Coord: {:<3} Next Event: {} Skill: {:<3} Reliability: {:<3} Speed: {:<2} Rating: {:<3} Ammount Rated: {:<3}".format(self.id, self.name, self.balance, self.subscriber, self.xcoord, self.ycoord, self.nextEvent, self.skill, self.reliability, self.speed, self.rating, self.amountRated)
+        self.rating = rating
+        self.amountRated = amountRated
+        self.trade = trade
 
+        
     def getSkill(self):
         return self.skill
     
@@ -36,9 +35,24 @@ class Professional(User):
     
     def setSpeed(self, speed):
         self.speed = speed
-        
-    def getEvent(self):
+
+    def getcurrentEvent(self):
         return self.nextEvent
     
+    def setcurrentEvent(self, currentEvent):
+        self.currentEvent = currentEvent
+
+    def getNextEvent(self):
+        return self.nextEvent
+    
+    def setNextEvent(self, nextEvent):
+        self.nextEvent = nextEvent
+    
+    def getTrade(self):
+        return self.trade
+    
+    def setTrade(self, trade):
+        self.trade = trade
+
     def calculateTravel(self, clientXCoord, clientYCoord):
         return round(sqrt((clientXCoord - self.xcoord)**2 + (clientYCoord - self.ycoord)**2), 2)
