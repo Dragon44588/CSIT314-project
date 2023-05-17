@@ -83,5 +83,9 @@ def generateProfessionals(id):
         sub = True
     return Professional(id, name, 100, sub, random.randint(0, 100), random.randint(0, 100), random.randint(0, 100), random.randint(0, 100), random.randint(0, 100))
 
+def generateEvents():
+    print("finish me")
+
+
 if __name__ == "__main__":
     generator(20, 20, 0)
