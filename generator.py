@@ -1,6 +1,7 @@
 import random
 from client import *
 from professionals import *
+from event import *
 #require 20 tradies(proffessionals) and 20 clients
 
 #User variables
@@ -44,6 +45,9 @@ def generator(numUsers, numPros, numEvents):
     ID = 1
     clients = []
     professionals = []
+    events = []
+    time = 0
+    
     for i in range(0, numUsers):
         client = generateUser(ID)
         clients.append(client)
@@ -53,39 +57,47 @@ def generator(numUsers, numPros, numEvents):
         professional = generateProfessionals(ID)
         professionals.append(professional)
         ID += 1
-
-    print("clients")
-    print()
-    for i in clients:
-        print(i)
-    
-    print()
-    print("Professionals")
-    print()
-    for i in professionals:
-        print(i)        
+        
+    for i in range(0, numEvents):
+        newTime = (100/numEvents)
+        event = generateEvents(clients, time, newTime)
+        events.append(event)
+        time += newTime
+        
+        
+        data = ""
+        data += "clients\n"
+        for i in clients:
+            data += repr(i) + "\n"
+        data += "<=====>\n"
+        data += "tradies\n"
+        for i in professionals:
+            data += repr(i) + "\n"
+        data += "<=====>\n"
+        data += "events\n"
+        for i in events:
+            data += repr(i) + "\n"
+        data += "<=====>"
+        
+    with open("test_data.txt", "w") as f:
+        f.write(data)
+   
 
 def generateUser(id):
         name = ("{} {}".format(random.choice(userNames), random.choice(userNames)))
-        sub = random.randint(0, 1)
-        if sub == 1:
-            sub = False
-        else:
-            sub = True
-        return Client(id, name, 100, sub, random.randint(0, 100), random.randint(0, 100))
+        return Client(id, name, 100, random.randint(0,1), random.randint(0, 100), random.randint(0, 100))
 
 def generateProfessionals(id):
     name = ("{} {}".format(random.choice(buisnessNames), random.choice(buisnessTags)))
-    sub = random.randint(0, 1)
-    if sub == 1:
-        sub = False
-    else:
-        sub = True
-    return Professional(id, name, 100, sub, random.randint(0, 100), random.randint(0, 100), random.randint(0, 100), random.randint(0, 100), random.randint(0, 100))
+    return Professional(id, name, 100, random.randint(0,1), random.randint(0, 100), random.randint(0, 100), random.randint(0, 100), random.randint(0, 100), random.randint(0, 100), random.randint(0, 4))
 
-def generateEvents():
-    print("finish me")
+
+def generateEvents(clients, time, newTime):
+    return(random.choice(clients).getId(), time, newTime, (50 + random.randint(0, 50)), random.randint(0, 4))
 
 
 if __name__ == "__main__":
-    generator(20, 20, 0)
+    c = int(input("Number of Clients: "))
+    t = int(input("Number of Tradies: "))
+    e = int(input("Number of Events: "))
+    generator(c, t, e)
