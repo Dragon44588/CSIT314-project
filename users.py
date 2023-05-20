@@ -1,6 +1,7 @@
 class User:
-    def __init__(self, id, balance, subscriber, xcoord, ycoord):
+    def __init__(self, id, name, balance, subscriber, xcoord, ycoord):
         self.id = id
+        self.name = name
         self.balance = balance
         self.subscriber = subscriber
         self.xcoord = xcoord
@@ -11,6 +12,12 @@ class User:
         
     def setId(self, id):
         self.id = id
+
+    def getName(self):
+        return self.name
+        
+    def setName(self, name):
+        self.name = name
         
     def getBal(self):
         return self.balance
