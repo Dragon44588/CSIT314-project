@@ -1,0 +1,146 @@
+==============================================  Clients  ================================================
+|ID:1  | Name:Aiden Theodore      | Balance:100  | Subscriber:1  | X-coordinate:90   | Y-Coordinate:70   |
+|ID:2  | Name:Weston Dominic      | Balance:100  | Subscriber:0  | X-coordinate:79   | Y-Coordinate:68   |
+|ID:3  | Name:Nathan Leo          | Balance:100  | Subscriber:1  | X-coordinate:94   | Y-Coordinate:54   |
+|ID:4  | Name:Asher Nicholas      | Balance:100  | Subscriber:0  | X-coordinate:30   | Y-Coordinate:89   |
+|ID:5  | Name:Dylan Wyatt         | Balance:100  | Subscriber:0  | X-coordinate:46   | Y-Coordinate:16   |
+|ID:6  | Name:Alexander Jonathan  | Balance:100  | Subscriber:1  | X-coordinate:30   | Y-Coordinate:2    |
+|ID:7  | Name:Grayson Michael     | Balance:100  | Subscriber:1  | X-coordinate:84   | Y-Coordinate:76   |
+|ID:8  | Name:Luke James          | Balance:100  | Subscriber:0  | X-coordinate:0    | Y-Coordinate:36   |
+|ID:9  | Name:Nathan Henry        | Balance:100  | Subscriber:1  | X-coordinate:77   | Y-Coordinate:88   |
+|ID:10 | Name:Ethan Christian     | Balance:100  | Subscriber:0  | X-coordinate:66   | Y-Coordinate:33   |
+|ID:11 | Name:Ian Levi            | Balance:100  | Subscriber:0  | X-coordinate:32   | Y-Coordinate:59   |
+|ID:12 | Name:Jose Thomas         | Balance:100  | Subscriber:1  | X-coordinate:24   | Y-Coordinate:8    |
+|ID:13 | Name:Weston Nolan        | Balance:100  | Subscriber:1  | X-coordinate:13   | Y-Coordinate:43   |
+|ID:14 | Name:Santiago Cooper     | Balance:100  | Subscriber:1  | X-coordinate:0    | Y-Coordinate:18   |
+|ID:15 | Name:James Luke          | Balance:100  | Subscriber:1  | X-coordinate:10   | Y-Coordinate:54   |
+|ID:16 | Name:Adriana William     | Balance:100  | Subscriber:0  | X-coordinate:83   | Y-Coordinate:10   |
+|ID:17 | Name:Theodore Colton     | Balance:100  | Subscriber:0  | X-coordinate:57   | Y-Coordinate:24   |
+|ID:18 | Name:Colton Carson       | Balance:100  | Subscriber:0  | X-coordinate:12   | Y-Coordinate:30   |
+|ID:19 | Name:Easton James        | Balance:100  | Subscriber:0  | X-coordinate:74   | Y-Coordinate:90   |
+|ID:20 | Name:Joshua Ian          | Balance:100  | Subscriber:0  | X-coordinate:73   | Y-Coordinate:73   |
+===========================================================================================================
+=====================================================  Tradies  ==============================================================
+|ID:21   | Name:carpentry Inc       | Balance:100  | Subscriber:1 | X-Coordinate:98   | Y-Coordinate:90   | Next Event:None | Current Event:None | Skill:60   | Reliability:47   | Speed:1    | Rating:0    | Ammount of Ratings:0    | Trade:3 |
+|ID:22   | Name:carpentry PTY LTD   | Balance:100  | Subscriber:1 | X-Coordinate:55   | Y-Coordinate:47   | Next Event:None | Current Event:None | Skill:53   | Reliability:89   | Speed:45   | Rating:0    | Ammount of Ratings:0    | Trade:2 |
+|ID:23   | Name:lumber Inc          | Balance:100  | Subscriber:0 | X-Coordinate:87   | Y-Coordinate:47   | Next Event:None | Current Event:None | Skill:5    | Reliability:7    | Speed:18   | Rating:0    | Ammount of Ratings:0    | Trade:4 |
+|ID:24   | Name:brickies PTY LTD    | Balance:100  | Subscriber:0 | X-Coordinate:98   | Y-Coordinate:37   | Next Event:None | Current Event:None | Skill:53   | Reliability:82   | Speed:67   | Rating:0    | Ammount of Ratings:0    | Trade:1 |
+|ID:25   | Name:concrete Limited    | Balance:100  | Subscriber:0 | X-Coordinate:19   | Y-Coordinate:27   | Next Event:None | Current Event:None | Skill:3    | Reliability:25   | Speed:25   | Rating:0    | Ammount of Ratings:0    | Trade:1 |
+|ID:26   | Name:concrete Inc        | Balance:100  | Subscriber:0 | X-Coordinate:55   | Y-Coordinate:87   | Next Event:None | Current Event:None | Skill:57   | Reliability:1    | Speed:76   | Rating:0    | Ammount of Ratings:0    | Trade:1 |
+|ID:27   | Name:carpentry PTY LTD   | Balance:100  | Subscriber:1 | X-Coordinate:33   | Y-Coordinate:36   | Next Event:None | Current Event:None | Skill:75   | Reliability:9    | Speed:77   | Rating:0    | Ammount of Ratings:0    | Trade:0 |
+|ID:28   | Name:brickies LTD        | Balance:100  | Subscriber:1 | X-Coordinate:80   | Y-Coordinate:25   | Next Event:None | Current Event:None | Skill:70   | Reliability:73   | Speed:40   | Rating:0    | Ammount of Ratings:0    | Trade:1 |
+|ID:29   | Name:carpentry Inc       | Balance:100  | Subscriber:0 | X-Coordinate:54   | Y-Coordinate:70   | Next Event:None | Current Event:None | Skill:94   | Reliability:5    | Speed:67   | Rating:0    | Ammount of Ratings:0    | Trade:4 |
+|ID:30   | Name:concrete Inc        | Balance:100  | Subscriber:0 | X-Coordinate:74   | Y-Coordinate:23   | Next Event:None | Current Event:None | Skill:47   | Reliability:29   | Speed:87   | Rating:0    | Ammount of Ratings:0    | Trade:2 |
+|ID:31   | Name:jims construction PTY LTD| Balance:100  | Subscriber:0 | X-Coordinate:4    | Y-Coordinate:98   | Next Event:None | Current Event:None | Skill:70   | Reliability:91   | Speed:23   | Rating:0    | Ammount of Ratings:0    | Trade:1 |
+|ID:32   | Name:trades Limited      | Balance:100  | Subscriber:0 | X-Coordinate:17   | Y-Coordinate:78   | Next Event:None | Current Event:None | Skill:73   | Reliability:74   | Speed:22   | Rating:0    | Ammount of Ratings:0    | Trade:0 |
+|ID:33   | Name:concrete Limited    | Balance:100  | Subscriber:1 | X-Coordinate:84   | Y-Coordinate:36   | Next Event:None | Current Event:None | Skill:66   | Reliability:33   | Speed:38   | Rating:0    | Ammount of Ratings:0    | Trade:0 |
+|ID:34   | Name:jims construction Limited| Balance:100  | Subscriber:0 | X-Coordinate:25   | Y-Coordinate:76   | Next Event:None | Current Event:None | Skill:25   | Reliability:76   | Speed:33   | Rating:0    | Ammount of Ratings:0    | Trade:1 |
+|ID:35   | Name:lumber PTY LTD      | Balance:100  | Subscriber:0 | X-Coordinate:41   | Y-Coordinate:38   | Next Event:None | Current Event:None | Skill:97   | Reliability:50   | Speed:55   | Rating:0    | Ammount of Ratings:0    | Trade:1 |
+|ID:36   | Name:jims construction LTD| Balance:100  | Subscriber:0 | X-Coordinate:22   | Y-Coordinate:13   | Next Event:None | Current Event:None | Skill:37   | Reliability:16   | Speed:54   | Rating:0    | Ammount of Ratings:0    | Trade:1 |
+|ID:37   | Name:lumber Limited      | Balance:100  | Subscriber:0 | X-Coordinate:11   | Y-Coordinate:39   | Next Event:None | Current Event:None | Skill:4    | Reliability:81   | Speed:20   | Rating:0    | Ammount of Ratings:0    | Trade:0 |
+|ID:38   | Name:carpentry Limited   | Balance:100  | Subscriber:0 | X-Coordinate:96   | Y-Coordinate:86   | Next Event:None | Current Event:None | Skill:60   | Reliability:66   | Speed:13   | Rating:0    | Ammount of Ratings:0    | Trade:1 |
+|ID:39   | Name:trades PTY LTD      | Balance:100  | Subscriber:1 | X-Coordinate:63   | Y-Coordinate:71   | Next Event:None | Current Event:None | Skill:56   | Reliability:60   | Speed:59   | Rating:0    | Ammount of Ratings:0    | Trade:4 |
+|ID:40   | Name:jims construction Limited| Balance:100  | Subscriber:1 | X-Coordinate:45   | Y-Coordinate:47   | Next Event:None | Current Event:None | Skill:89   | Reliability:88   | Speed:71   | Rating:0    | Ammount of Ratings:0    | Trade:0 |
+======================================================================================================================================
+====================================================  Events  ===========================================
+|Client ID:11 | Start Time:0    | Service Time:1.0  | Performance:57   | Next Event:None      | Trade:2    |
+|Client ID:5  | Start Time:1.0  | Service Time:1.0  | Performance:82   | Next Event:None      | Trade:4    |
+|Client ID:18 | Start Time:2.0  | Service Time:1.0  | Performance:92   | Next Event:None      | Trade:2    |
+|Client ID:8  | Start Time:3.0  | Service Time:1.0  | Performance:61   | Next Event:None      | Trade:0    |
+|Client ID:16 | Start Time:4.0  | Service Time:1.0  | Performance:80   | Next Event:None      | Trade:1    |
+|Client ID:8  | Start Time:5.0  | Service Time:1.0  | Performance:98   | Next Event:None      | Trade:4    |
+|Client ID:4  | Start Time:6.0  | Service Time:1.0  | Performance:72   | Next Event:None      | Trade:2    |
+|Client ID:13 | Start Time:7.0  | Service Time:1.0  | Performance:90   | Next Event:None      | Trade:4    |
+|Client ID:8  | Start Time:8.0  | Service Time:1.0  | Performance:95   | Next Event:None      | Trade:1    |
+|Client ID:7  | Start Time:9.0  | Service Time:1.0  | Performance:97   | Next Event:None      | Trade:0    |
+|Client ID:15 | Start Time:10.0 | Service Time:1.0  | Performance:76   | Next Event:None      | Trade:3    |
+|Client ID:6  | Start Time:11.0 | Service Time:1.0  | Performance:89   | Next Event:None      | Trade:2    |
+|Client ID:4  | Start Time:12.0 | Service Time:1.0  | Performance:63   | Next Event:None      | Trade:2    |
+|Client ID:17 | Start Time:13.0 | Service Time:1.0  | Performance:55   | Next Event:None      | Trade:2    |
+|Client ID:8  | Start Time:14.0 | Service Time:1.0  | Performance:72   | Next Event:None      | Trade:2    |
+|Client ID:11 | Start Time:15.0 | Service Time:1.0  | Performance:98   | Next Event:None      | Trade:0    |
+|Client ID:8  | Start Time:16.0 | Service Time:1.0  | Performance:62   | Next Event:None      | Trade:2    |
+|Client ID:16 | Start Time:17.0 | Service Time:1.0  | Performance:86   | Next Event:None      | Trade:1    |
+|Client ID:13 | Start Time:18.0 | Service Time:1.0  | Performance:57   | Next Event:None      | Trade:0    |
+|Client ID:5  | Start Time:19.0 | Service Time:1.0  | Performance:91   | Next Event:None      | Trade:0    |
+|Client ID:8  | Start Time:20.0 | Service Time:1.0  | Performance:69   | Next Event:None      | Trade:4    |
+|Client ID:3  | Start Time:21.0 | Service Time:1.0  | Performance:62   | Next Event:None      | Trade:4    |
+|Client ID:12 | Start Time:22.0 | Service Time:1.0  | Performance:81   | Next Event:None      | Trade:0    |
+|Client ID:4  | Start Time:23.0 | Service Time:1.0  | Performance:51   | Next Event:None      | Trade:2    |
+|Client ID:17 | Start Time:24.0 | Service Time:1.0  | Performance:87   | Next Event:None      | Trade:2    |
+|Client ID:2  | Start Time:25.0 | Service Time:1.0  | Performance:56   | Next Event:None      | Trade:3    |
+|Client ID:16 | Start Time:26.0 | Service Time:1.0  | Performance:72   | Next Event:None      | Trade:2    |
+|Client ID:18 | Start Time:27.0 | Service Time:1.0  | Performance:75   | Next Event:None      | Trade:1    |
+|Client ID:18 | Start Time:28.0 | Service Time:1.0  | Performance:94   | Next Event:None      | Trade:2    |
+|Client ID:6  | Start Time:29.0 | Service Time:1.0  | Performance:51   | Next Event:None      | Trade:4    |
+|Client ID:8  | Start Time:30.0 | Service Time:1.0  | Performance:65   | Next Event:None      | Trade:3    |
+|Client ID:9  | Start Time:31.0 | Service Time:1.0  | Performance:82   | Next Event:None      | Trade:3    |
+|Client ID:5  | Start Time:32.0 | Service Time:1.0  | Performance:84   | Next Event:None      | Trade:0    |
+|Client ID:10 | Start Time:33.0 | Service Time:1.0  | Performance:57   | Next Event:None      | Trade:3    |
+|Client ID:15 | Start Time:34.0 | Service Time:1.0  | Performance:61   | Next Event:None      | Trade:4    |
+|Client ID:16 | Start Time:35.0 | Service Time:1.0  | Performance:75   | Next Event:None      | Trade:0    |
+|Client ID:14 | Start Time:36.0 | Service Time:1.0  | Performance:88   | Next Event:None      | Trade:1    |
+|Client ID:18 | Start Time:37.0 | Service Time:1.0  | Performance:66   | Next Event:None      | Trade:1    |
+|Client ID:19 | Start Time:38.0 | Service Time:1.0  | Performance:73   | Next Event:None      | Trade:0    |
+|Client ID:15 | Start Time:39.0 | Service Time:1.0  | Performance:67   | Next Event:None      | Trade:2    |
+|Client ID:4  | Start Time:40.0 | Service Time:1.0  | Performance:56   | Next Event:None      | Trade:1    |
+|Client ID:13 | Start Time:41.0 | Service Time:1.0  | Performance:81   | Next Event:None      | Trade:4    |
+|Client ID:8  | Start Time:42.0 | Service Time:1.0  | Performance:83   | Next Event:None      | Trade:2    |
+|Client ID:1  | Start Time:43.0 | Service Time:1.0  | Performance:78   | Next Event:None      | Trade:2    |
+|Client ID:18 | Start Time:44.0 | Service Time:1.0  | Performance:69   | Next Event:None      | Trade:4    |
+|Client ID:1  | Start Time:45.0 | Service Time:1.0  | Performance:81   | Next Event:None      | Trade:1    |
+|Client ID:5  | Start Time:46.0 | Service Time:1.0  | Performance:74   | Next Event:None      | Trade:3    |
+|Client ID:6  | Start Time:47.0 | Service Time:1.0  | Performance:95   | Next Event:None      | Trade:3    |
+|Client ID:20 | Start Time:48.0 | Service Time:1.0  | Performance:65   | Next Event:None      | Trade:4    |
+|Client ID:16 | Start Time:49.0 | Service Time:1.0  | Performance:97   | Next Event:None      | Trade:2    |
+|Client ID:19 | Start Time:50.0 | Service Time:1.0  | Performance:77   | Next Event:None      | Trade:1    |
+|Client ID:8  | Start Time:51.0 | Service Time:1.0  | Performance:71   | Next Event:None      | Trade:1    |
+|Client ID:1  | Start Time:52.0 | Service Time:1.0  | Performance:86   | Next Event:None      | Trade:3    |
+|Client ID:16 | Start Time:53.0 | Service Time:1.0  | Performance:100  | Next Event:None      | Trade:4    |
+|Client ID:12 | Start Time:54.0 | Service Time:1.0  | Performance:77   | Next Event:None      | Trade:2    |
+|Client ID:18 | Start Time:55.0 | Service Time:1.0  | Performance:56   | Next Event:None      | Trade:0    |
+|Client ID:19 | Start Time:56.0 | Service Time:1.0  | Performance:64   | Next Event:None      | Trade:0    |
+|Client ID:11 | Start Time:57.0 | Service Time:1.0  | Performance:88   | Next Event:None      | Trade:3    |
+|Client ID:14 | Start Time:58.0 | Service Time:1.0  | Performance:71   | Next Event:None      | Trade:1    |
+|Client ID:16 | Start Time:59.0 | Service Time:1.0  | Performance:95   | Next Event:None      | Trade:0    |
+|Client ID:2  | Start Time:60.0 | Service Time:1.0  | Performance:90   | Next Event:None      | Trade:4    |
+|Client ID:1  | Start Time:61.0 | Service Time:1.0  | Performance:95   | Next Event:None      | Trade:2    |
+|Client ID:1  | Start Time:62.0 | Service Time:1.0  | Performance:77   | Next Event:None      | Trade:2    |
+|Client ID:10 | Start Time:63.0 | Service Time:1.0  | Performance:73   | Next Event:None      | Trade:4    |
+|Client ID:3  | Start Time:64.0 | Service Time:1.0  | Performance:84   | Next Event:None      | Trade:0    |
+|Client ID:2  | Start Time:65.0 | Service Time:1.0  | Performance:71   | Next Event:None      | Trade:4    |
+|Client ID:11 | Start Time:66.0 | Service Time:1.0  | Performance:55   | Next Event:None      | Trade:1    |
+|Client ID:17 | Start Time:67.0 | Service Time:1.0  | Performance:66   | Next Event:None      | Trade:4    |
+|Client ID:11 | Start Time:68.0 | Service Time:1.0  | Performance:66   | Next Event:None      | Trade:2    |
+|Client ID:3  | Start Time:69.0 | Service Time:1.0  | Performance:74   | Next Event:None      | Trade:3    |
+|Client ID:7  | Start Time:70.0 | Service Time:1.0  | Performance:65   | Next Event:None      | Trade:0    |
+|Client ID:4  | Start Time:71.0 | Service Time:1.0  | Performance:86   | Next Event:None      | Trade:2    |
+|Client ID:5  | Start Time:72.0 | Service Time:1.0  | Performance:60   | Next Event:None      | Trade:4    |
+|Client ID:9  | Start Time:73.0 | Service Time:1.0  | Performance:62   | Next Event:None      | Trade:0    |
+|Client ID:8  | Start Time:74.0 | Service Time:1.0  | Performance:52   | Next Event:None      | Trade:2    |
+|Client ID:8  | Start Time:75.0 | Service Time:1.0  | Performance:71   | Next Event:None      | Trade:4    |
+|Client ID:1  | Start Time:76.0 | Service Time:1.0  | Performance:52   | Next Event:None      | Trade:1    |
+|Client ID:11 | Start Time:77.0 | Service Time:1.0  | Performance:71   | Next Event:None      | Trade:2    |
+|Client ID:3  | Start Time:78.0 | Service Time:1.0  | Performance:69   | Next Event:None      | Trade:3    |
+|Client ID:13 | Start Time:79.0 | Service Time:1.0  | Performance:85   | Next Event:None      | Trade:3    |
+|Client ID:2  | Start Time:80.0 | Service Time:1.0  | Performance:74   | Next Event:None      | Trade:0    |
+|Client ID:6  | Start Time:81.0 | Service Time:1.0  | Performance:97   | Next Event:None      | Trade:2    |
+|Client ID:8  | Start Time:82.0 | Service Time:1.0  | Performance:95   | Next Event:None      | Trade:0    |
+|Client ID:19 | Start Time:83.0 | Service Time:1.0  | Performance:87   | Next Event:None      | Trade:1    |
+|Client ID:13 | Start Time:84.0 | Service Time:1.0  | Performance:63   | Next Event:None      | Trade:3    |
+|Client ID:9  | Start Time:85.0 | Service Time:1.0  | Performance:80   | Next Event:None      | Trade:4    |
+|Client ID:5  | Start Time:86.0 | Service Time:1.0  | Performance:90   | Next Event:None      | Trade:3    |
+|Client ID:2  | Start Time:87.0 | Service Time:1.0  | Performance:77   | Next Event:None      | Trade:0    |
+|Client ID:4  | Start Time:88.0 | Service Time:1.0  | Performance:67   | Next Event:None      | Trade:4    |
+|Client ID:13 | Start Time:89.0 | Service Time:1.0  | Performance:94   | Next Event:None      | Trade:1    |
+|Client ID:15 | Start Time:90.0 | Service Time:1.0  | Performance:60   | Next Event:None      | Trade:0    |
+|Client ID:14 | Start Time:91.0 | Service Time:1.0  | Performance:81   | Next Event:None      | Trade:1    |
+|Client ID:4  | Start Time:92.0 | Service Time:1.0  | Performance:78   | Next Event:None      | Trade:4    |
+|Client ID:9  | Start Time:93.0 | Service Time:1.0  | Performance:69   | Next Event:None      | Trade:3    |
+|Client ID:17 | Start Time:94.0 | Service Time:1.0  | Performance:91   | Next Event:None      | Trade:1    |
+|Client ID:19 | Start Time:95.0 | Service Time:1.0  | Performance:73   | Next Event:None      | Trade:2    |
+|Client ID:16 | Start Time:96.0 | Service Time:1.0  | Performance:53   | Next Event:None      | Trade:2    |
+|Client ID:19 | Start Time:97.0 | Service Time:1.0  | Performance:81   | Next Event:None      | Trade:0    |
+|Client ID:4  | Start Time:98.0 | Service Time:1.0  | Performance:74   | Next Event:None      | Trade:3    |
+|Client ID:9  | Start Time:99.0 | Service Time:1.0  | Performance:93   | Next Event:None      | Trade:4    |
+=========================================================================================================

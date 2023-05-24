@@ -1,6 +1,6 @@
 class Event:
 
-    def __init__(self, clientId, startTime, serviceTime, performance, nextEvent, trade):
+    def __init__(self, clientId, startTime, serviceTime, performance, trade):
 
         self.clientId = clientId
         self.startTime = startTime
@@ -9,8 +9,11 @@ class Event:
         self.nextEvent = None
         self.trade = trade
 
+    def __str__(self):
+        return "|Client ID:{:<3}| Start Time:{:<5}| Service Time:{:<5}| Performance:{:<5}| Next Event:{:<10}| Trade:{:<5}|".format(self.clientId, self.startTime, self.serviceTime, self.performance, "None", self.trade)
+
     def __repr__(self):
-        return "{},{},{},{},{},{}".format(self.clientId, self.startTime, self.serviceTime, self.performance, self.nextEvent, self.trade)
+        return '{},{},{},{},{},{}'.format(self.clientId, self.startTime, self.serviceTime, self.performance, self.nextEvent, self.trade)
 
     def getClientId(self):
         return self.clientId

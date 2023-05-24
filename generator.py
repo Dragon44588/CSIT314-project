@@ -64,23 +64,35 @@ def generator(numUsers, numPros, numEvents):
         events.append(event)
         time += newTime
         
-        
+        rdata = ""
         data = ""
+        rdata += "==============================================  Clients  ================================================\n"
         data += "clients\n"
         for i in clients:
+            rdata += str(i) + "\n"
             data += repr(i) + "\n"
         data += "<=====>\n"
+        rdata += "===========================================================================================================\n"
         data += "tradies\n"
+        rdata += "=====================================================  Tradies  ==============================================================\n"
         for i in professionals:
+            rdata += str(i) + "\n"
             data += repr(i) + "\n"
         data += "<=====>\n"
+        rdata += "======================================================================================================================================\n"
         data += "events\n"
+        rdata += "====================================================  Events  ===========================================\n"
         for i in events:
+            rdata += str(i) + "\n"
             data += repr(i) + "\n"
         data += "<=====>"
+        rdata += "=========================================================================================================\n"
         
     with open("test_data.txt", "w") as f:
         f.write(data)
+
+    with open("readable_test_data.txt", "w") as rf:
+        rf.write(rdata)
    
 
 def generateUser(id):
@@ -93,7 +105,7 @@ def generateProfessionals(id):
 
 
 def generateEvents(clients, time, newTime):
-    return(random.choice(clients).getId(), time, newTime, (50 + random.randint(0, 50)), random.randint(0, 4))
+    return Event(random.choice(clients).getId(), time, newTime, (50 + random.randint(0, 50)), random.randint(0, 4))
 
 
 if __name__ == "__main__":

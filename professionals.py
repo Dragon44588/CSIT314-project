@@ -19,6 +19,9 @@ class Professional(User):
         self.amountRated = 0
         self.trade = trade
         
+    def __str__(self):
+        return "|ID:{:<5}| Name:{:<20}| Balance:{:<5}| Subscriber:{:<2}| X-Coordinate:{:<5}| Y-Coordinate:{:<5}| Next Event:{:<5}| Current Event:{:<5}| Skill:{:<5}| Reliability:{:<5}| Speed:{:<5}| Rating:{:<5}| Ammount of Ratings:{:<5}| Trade:{:<2}|".format(self.id, self.name, self.balance, self.subscriber, self.xcoord, self.ycoord, "None", "None", self.skill, self.reliability, self.speed, self.rating, self.amountRated, self.trade)
+
     def __repr__(self):
         return "{},{},{},{},{},{},{},{},{},{},{},{},{},{}".format(self.id, self.name, self.balance, self.subscriber, self.xcoord, self.ycoord, self.nextEvent, self.currentEvent, self.skill, self.reliability, self.speed, self.rating, self.amountRated, self.trade)
         
