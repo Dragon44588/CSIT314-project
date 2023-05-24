@@ -1,34 +1,41 @@
 class Event:
-
-    def __init__(self, clientId, startTime, serviceTime, performance, nextEvent, trade):
-
+    def __init__(self, clientId, startTime, serviceTime, trade):
         self.clientId = clientId
+        self.professionalId = None
         self.startTime = startTime
         self.serviceTime = serviceTime
-        self.performance = performance
+        self.endTime = 0
+        self.performance = None
         self.nextEvent = None
         self.trade = trade
 
     def __repr__(self):
-        return "{},{},{},{},{},{}".format(self.clientId, self.startTime, self.serviceTime, self.performance, self.nextEvent, self.trade)
+        return "{},{},{},{}".format(self.clientId, self.startTime, self.serviceTime, self.trade)
+        
 
     def getClientId(self):
-        return self.clientId
+        return int(self.clientId)
     
     #Start time does not refer to the time that an event starts being processed but instead the time the event enters the system
     # i.e. The time the event enters the first come first serve queue
     def getStartTime(self):
-        return self.startTime
+        return float(self.startTime)
     
     def setStartTime(self, startTime):
         self.startTime = startTime
 
-    def getserviceTime(self):
-        return self.serviceTime
+    def getServiceTime(self):
+        return float(self.serviceTime)
     
-    def setStartTime(self, serviceTime):
+    def setServiceTime(self, serviceTime):
         self.serviceTime = serviceTime
     
+    def getEndTime(self):
+        return int(self.endTime)
+    
+    def setEndTime(self, endTime):
+        self.endTime = endTime
+
     def getPerformance(self):
         return self.performance
     
@@ -41,8 +48,8 @@ class Event:
     def setNextEvent(self, nextEvent):
         self.nextEvent = nextEvent
 
-    def getNextTrade(self):
-        return self.trade
+    def getTrade(self):
+        return int(self.trade)
     
-    def setNextEvent(self, trade):
+    def setTrade(self, trade):
         self.trade = trade

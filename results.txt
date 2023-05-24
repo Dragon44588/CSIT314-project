@@ -1,0 +1,2465 @@
+Services: 
+SERVICE FINISH 
+Client Id: 13
+Client Subscriber Status: Unsubscribed 
+Amount total: $124
+Client Balance: $-124
+Client Balance: $-124
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $123.85
+Professional Balance: $123.85
+ 
+ 
+Professional ID: 9
+Client ID: 13
+Time request made: 0.0
+Distance to job site: 47.01
+Service Time: 1.0
+Time Finished: 1
+Performance: 47
+
+SERVICE FINISH 
+Client Id: 16
+Client Subscriber Status: Unsubscribed, $196 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $195.85
+Professional Balance: $195.85
+ 
+ 
+Professional ID: 30
+Client ID: 16
+Time request made: 1.0
+Distance to job site: 12.37
+Service Time: 1.0
+Time Finished: 2
+Performance: 43
+
+SERVICE FINISH 
+Client Id: 15
+Client Subscriber Status: Unsubscribed 
+Amount total: $146
+Client Balance: $-146
+Client Balance: $-146
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $145.85
+Professional Balance: $145.85
+ 
+ 
+Professional ID: 27
+Client ID: 15
+Time request made: 2.0
+Distance to job site: 19.1
+Service Time: 1.0
+Time Finished: 3
+Performance: 1
+
+SERVICE FINISH 
+Client Id: 13
+Client Subscriber Status: Unsubscribed 
+Amount total: $134
+Client Balance: $-258
+Client Balance: $-258
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $133.85
+Professional Balance: $133.85
+ 
+ 
+Professional ID: 15
+Client ID: 13
+Time request made: 3.0
+Distance to job site: 22.36
+Service Time: 1.0
+Time Finished: 4
+Performance: 22
+
+SERVICE FINISH 
+Client Id: 14
+Client Subscriber Status: Unsubscribed 
+Amount total: $68
+Client Balance: $-68
+Client Balance: $-68
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $68
+Professional Balance: $68
+ 
+ 
+Professional ID: 20
+Client ID: 14
+Time request made: 4.0
+Distance to job site: 45.54
+Service Time: 1.0
+Time Finished: 5
+Performance: 23
+
+SERVICE FINISH 
+Client Id: 19
+Client Subscriber Status: Unsubscribed 
+Amount total: $126
+Client Balance: $-126
+Client Balance: $-126
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $125.85
+Professional Balance: $125.85
+ 
+ 
+Professional ID: 29
+Client ID: 19
+Time request made: 5.0
+Distance to job site: 38.6
+Service Time: 1.0
+Time Finished: 6
+Performance: 2
+
+SERVICE FINISH 
+Client Id: 7
+Client Subscriber Status: Unsubscribed 
+Amount total: $94
+Client Balance: $-94
+Client Balance: $-94
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $94
+Professional Balance: $94
+ 
+ 
+Professional ID: 5
+Client ID: 7
+Time request made: 6.0
+Distance to job site: 9.85
+Service Time: 1.0
+Time Finished: 8
+Performance: 1
+
+SERVICE FINISH 
+Client Id: 14
+Client Subscriber Status: Unsubscribed, $124 payment not needed
+Amount total: $0 
+Client Balance: $-268
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $123.85
+Professional Balance: $247.7
+ 
+ 
+Professional ID: 9
+Client ID: 14
+Time request made: 7.0
+Distance to job site: 43.38
+Service Time: 1.0
+Time Finished: 9
+Performance: 50
+
+SERVICE FINISH 
+Client Id: 11
+Client Subscriber Status: Unsubscribed, $124 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $123.85
+Professional Balance: $123.85
+ 
+ 
+Professional ID: 28
+Client ID: 11
+Time request made: 8.0
+Distance to job site: 10.82
+Service Time: 1.0
+Time Finished: 11
+Performance: 29
+
+SERVICE FINISH 
+Client Id: 2
+Client Subscriber Status: Unsubscribed, $128 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $127.85
+Professional Balance: $127.85
+ 
+ 
+Professional ID: 35
+Client ID: 2
+Time request made: 9.0
+Distance to job site: 9.43
+Service Time: 1.0
+Time Finished: 13
+Performance: 4
+
+SERVICE FINISH 
+Client Id: 3
+Client Subscriber Status: Unsubscribed 
+Amount total: $92
+Client Balance: $-92
+Client Balance: $-92
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $91.85
+Professional Balance: $91.85
+ 
+ 
+Professional ID: 2
+Client ID: 3
+Time request made: 10.0
+Distance to job site: 45.49
+Service Time: 1.0
+Time Finished: 14
+Performance: 27
+
+SERVICE FINISH 
+Client Id: 11
+Client Subscriber Status: Unsubscribed, $64 payment not needed
+Amount total: $0 
+Client Balance: $-200
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $64
+Professional Balance: $64
+ 
+ 
+Professional ID: 31
+Client ID: 11
+Time request made: 11.0
+Distance to job site: 13.15
+Service Time: 1.0
+Time Finished: 15
+Performance: 15
+
+SERVICE FINISH 
+Client Id: 8
+Client Subscriber Status: Unsubscribed, $146 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $145.85
+Professional Balance: $291.70000000000005
+ 
+ 
+Professional ID: 27
+Client ID: 8
+Time request made: 12.0
+Distance to job site: 9.85
+Service Time: 1.0
+Time Finished: 17
+Performance: 1
+
+SERVICE FINISH 
+Client Id: 16
+Client Subscriber Status: Unsubscribed, $138 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $137.85
+Professional Balance: $137.85
+ 
+ 
+Professional ID: 3
+Client ID: 16
+Time request made: 13.0
+Distance to job site: 43.05
+Service Time: 1.0
+Time Finished: 18
+Performance: 15
+
+SERVICE FINISH 
+Client Id: 13
+Client Subscriber Status: Unsubscribed, $196 payment not needed
+Amount total: $0 
+Client Balance: $-458
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $196
+Professional Balance: $116.85
+ 
+ 
+Professional ID: 30
+Client ID: 13
+Time request made: 14.0
+Distance to job site: 13.93
+Service Time: 1.0
+Time Finished: 19
+Performance: 45
+
+SERVICE FINISH 
+Client Id: 15
+Client Subscriber Status: Unsubscribed 
+Amount total: $82
+Client Balance: $-228
+Client Balance: $-228
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $81.85
+Professional Balance: $81.85
+ 
+ 
+Professional ID: 11
+Client ID: 15
+Time request made: 15.0
+Distance to job site: 16.76
+Service Time: 1.0
+Time Finished: 20
+Performance: 32
+
+SERVICE FINISH 
+Client Id: 2
+Client Subscriber Status: Unsubscribed, $74 payment not needed
+Amount total: $0 
+Client Balance: $-200
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $74
+Professional Balance: $74
+ 
+ 
+Professional ID: 12
+Client ID: 2
+Time request made: 16.0
+Distance to job site: 9.43
+Service Time: 1.0
+Time Finished: 22
+Performance: 4
+
+SERVICE FINISH 
+Client Id: 0
+Client Subscriber Status: Unsubscribed, $102 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $101.85
+Professional Balance: $101.85
+ 
+ 
+Professional ID: 7
+Client ID: 0
+Time request made: 17.0
+Distance to job site: 31.38
+Service Time: 1.0
+Time Finished: 23
+Performance: 4
+
+SERVICE FINISH 
+Client Id: 15
+Client Subscriber Status: Unsubscribed 
+Amount total: $146
+Client Balance: $-374
+Client Balance: $-374
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $145.85
+Professional Balance: $437.55000000000007
+ 
+ 
+Professional ID: 27
+Client ID: 15
+Time request made: 18.0
+Distance to job site: 19.1
+Service Time: 1.0
+Time Finished: 24
+Performance: 1
+
+SERVICE FINISH 
+Client Id: 13
+Client Subscriber Status: Unsubscribed, $196 payment not needed
+Amount total: $0 
+Client Balance: $-458
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $196
+Professional Balance: $312.85
+ 
+ 
+Professional ID: 30
+Client ID: 13
+Time request made: 19.0
+Distance to job site: 13.93
+Service Time: 1.0
+Time Finished: 25
+Performance: 50
+
+SERVICE FINISH 
+Client Id: 4
+Client Subscriber Status: Unsubscribed, $180 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $179.85
+Professional Balance: $179.85
+ 
+ 
+Professional ID: 6
+Client ID: 4
+Time request made: 20.0
+Distance to job site: 14.21
+Service Time: 1.0
+Time Finished: 26
+Performance: 33
+
+SERVICE FINISH 
+Client Id: 18
+Client Subscriber Status: Unsubscribed, $134 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $134
+Professional Balance: $-7.150000000000006
+ 
+ 
+Professional ID: 15
+Client ID: 18
+Time request made: 21.0
+Distance to job site: 41.77
+Service Time: 1.0
+Time Finished: 28
+Performance: 22
+
+SERVICE FINISH 
+Client Id: 2
+Client Subscriber Status: Unsubscribed, $138 payment not needed
+Amount total: $0 
+Client Balance: $-200
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $137.85
+Professional Balance: $275.70000000000005
+ 
+ 
+Professional ID: 3
+Client ID: 2
+Time request made: 22.0
+Distance to job site: 12.21
+Service Time: 1.0
+Time Finished: 29
+Performance: 15
+
+SERVICE FINISH 
+Client Id: 4
+Client Subscriber Status: Unsubscribed, $102 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $101.85
+Professional Balance: $203.7
+ 
+ 
+Professional ID: 7
+Client ID: 4
+Time request made: 23.0
+Distance to job site: 25.5
+Service Time: 1.0
+Time Finished: 31
+Performance: 6
+
+SERVICE FINISH 
+Client Id: 19
+Client Subscriber Status: Unsubscribed 
+Amount total: $146
+Client Balance: $-272
+Client Balance: $-272
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $145.85
+Professional Balance: $583.4000000000001
+ 
+ 
+Professional ID: 27
+Client ID: 19
+Time request made: 24.0
+Distance to job site: 35.36
+Service Time: 1.0
+Time Finished: 32
+Performance: 1
+
+SERVICE FINISH 
+Client Id: 2
+Client Subscriber Status: Unsubscribed, $102 payment not needed
+Amount total: $0 
+Client Balance: $-200
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $101.85
+Professional Balance: $101.85
+ 
+ 
+Professional ID: 18
+Client ID: 2
+Time request made: 25.0
+Distance to job site: 8.06
+Service Time: 1.0
+Time Finished: 33
+Performance: 22
+
+SERVICE FINISH 
+Client Id: 11
+Client Subscriber Status: Unsubscribed, $194 payment not needed
+Amount total: $0 
+Client Balance: $-200
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $194
+Professional Balance: $194
+ 
+ 
+Professional ID: 23
+Client ID: 11
+Time request made: 26.0
+Distance to job site: 12.37
+Service Time: 1.0
+Time Finished: 35
+Performance: 26
+
+SERVICE FINISH 
+Client Id: 9
+Client Subscriber Status: Unsubscribed, $124 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $123.85
+Professional Balance: $371.55
+ 
+ 
+Professional ID: 9
+Client ID: 9
+Time request made: 27.0
+Distance to job site: 34.93
+Service Time: 1.0
+Time Finished: 36
+Performance: 47
+
+SERVICE FINISH 
+Client Id: 11
+Client Subscriber Status: Unsubscribed, $180 payment not needed
+Amount total: $0 
+Client Balance: $-200
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $179.85
+Professional Balance: $359.70000000000005
+ 
+ 
+Professional ID: 6
+Client ID: 11
+Time request made: 28.0
+Distance to job site: 12.37
+Service Time: 1.0
+Time Finished: 37
+Performance: 26
+
+SERVICE FINISH 
+Client Id: 14
+Client Subscriber Status: Unsubscribed, $82 payment not needed
+Amount total: $0 
+Client Balance: $-268
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $81.85
+Professional Balance: $163.7
+ 
+ 
+Professional ID: 11
+Client ID: 14
+Time request made: 29.0
+Distance to job site: 42.54
+Service Time: 1.0
+Time Finished: 38
+Performance: 26
+
+SERVICE FINISH 
+Client Id: 1
+Client Subscriber Status: Unsubscribed 
+Amount total: $180
+Client Balance: $-180
+Client Balance: $-180
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $180
+Professional Balance: $264.70000000000005
+ 
+ 
+Professional ID: 6
+Client ID: 1
+Time request made: 30.0
+Distance to job site: 15.81
+Service Time: 1.0
+Time Finished: 39
+Performance: 25
+
+SERVICE FINISH 
+Client Id: 9
+Client Subscriber Status: Unsubscribed, $168 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $168
+Professional Balance: $168
+ 
+ 
+Professional ID: 17
+Client ID: 9
+Time request made: 31.0
+Distance to job site: 29.7
+Service Time: 1.0
+Time Finished: 41
+Performance: 33
+
+SERVICE FINISH 
+Client Id: 5
+Client Subscriber Status: Unsubscribed, $142 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $141.85
+Professional Balance: $141.85
+ 
+ 
+Professional ID: 0
+Client ID: 5
+Time request made: 32.0
+Distance to job site: 62.17
+Service Time: 1.0
+Time Finished: 42
+Performance: 22
+
+SERVICE FINISH 
+Client Id: 15
+Client Subscriber Status: Unsubscribed, $102 payment not needed
+Amount total: $0 
+Client Balance: $-574
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $102
+Professional Balance: $30.69999999999999
+ 
+ 
+Professional ID: 7
+Client ID: 15
+Time request made: 33.0
+Distance to job site: 32.57
+Service Time: 1.0
+Time Finished: 43
+Performance: 6
+
+SERVICE FINISH 
+Client Id: 11
+Client Subscriber Status: Unsubscribed, $124 payment not needed
+Amount total: $0 
+Client Balance: $-400
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $123.85
+Professional Balance: $247.7
+ 
+ 
+Professional ID: 28
+Client ID: 11
+Time request made: 34.0
+Distance to job site: 10.82
+Service Time: 1.0
+Time Finished: 45
+Performance: 28
+
+SERVICE FINISH 
+Client Id: 18
+Client Subscriber Status: Unsubscribed, $68 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $68
+Professional Balance: $136
+ 
+ 
+Professional ID: 20
+Client ID: 18
+Time request made: 35.0
+Distance to job site: 42.72
+Service Time: 1.0
+Time Finished: 46
+Performance: 40
+
+SERVICE FINISH 
+Client Id: 9
+Client Subscriber Status: Unsubscribed, $68 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $68
+Professional Balance: $204
+ 
+ 
+Professional ID: 20
+Client ID: 9
+Time request made: 36.0
+Distance to job site: 33.53
+Service Time: 1.0
+Time Finished: 47
+Performance: 23
+
+SERVICE FINISH 
+Client Id: 3
+Client Subscriber Status: Unsubscribed 
+Amount total: $184
+Client Balance: $-276
+Client Balance: $-276
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $183.85
+Professional Balance: $183.85
+ 
+ 
+Professional ID: 19
+Client ID: 3
+Time request made: 37.0
+Distance to job site: 44.55
+Service Time: 1.0
+Time Finished: 48
+Performance: 1
+
+SERVICE FINISH 
+Client Id: 0
+Client Subscriber Status: Unsubscribed, $194 payment not needed
+Amount total: $0 
+Client Balance: $-200
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $194
+Professional Balance: $388
+ 
+ 
+Professional ID: 23
+Client ID: 0
+Time request made: 38.0
+Distance to job site: 21.38
+Service Time: 1.0
+Time Finished: 50
+Performance: 27
+
+SERVICE FINISH 
+Client Id: 10
+Client Subscriber Status: Unsubscribed 
+Amount total: $134
+Client Balance: $-134
+Client Balance: $-134
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $134
+Professional Balance: $126.85
+ 
+ 
+Professional ID: 15
+Client ID: 10
+Time request made: 39.0
+Distance to job site: 25.3
+Service Time: 1.0
+Time Finished: 51
+Performance: 22
+
+SERVICE FINISH 
+Client Id: 18
+Client Subscriber Status: Unsubscribed, $134 payment not needed
+Amount total: $0 
+Client Balance: $-200
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $134
+Professional Balance: $260.85
+ 
+ 
+Professional ID: 15
+Client ID: 18
+Time request made: 40.0
+Distance to job site: 41.77
+Service Time: 1.0
+Time Finished: 52
+Performance: 24
+
+SERVICE FINISH 
+Client Id: 6
+Client Subscriber Status: Unsubscribed 
+Amount total: $142
+Client Balance: $-142
+Client Balance: $-142
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $141.85
+Professional Balance: $283.70000000000005
+ 
+ 
+Professional ID: 0
+Client ID: 6
+Time request made: 41.0
+Distance to job site: 63.98
+Service Time: 1.0
+Time Finished: 53
+Performance: 23
+
+SERVICE FINISH 
+Client Id: 15
+Client Subscriber Status: Unsubscribed, $102 payment not needed
+Amount total: $0 
+Client Balance: $-574
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $102
+Professional Balance: $-142.3
+ 
+ 
+Professional ID: 7
+Client ID: 15
+Time request made: 42.0
+Distance to job site: 32.57
+Service Time: 1.0
+Time Finished: 54
+Performance: 8
+
+SERVICE FINISH 
+Client Id: 8
+Client Subscriber Status: Unsubscribed, $126 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $125.85
+Professional Balance: $251.7
+ 
+ 
+Professional ID: 29
+Client ID: 8
+Time request made: 43.0
+Distance to job site: 10.44
+Service Time: 1.0
+Time Finished: 55
+Performance: 1
+
+SERVICE FINISH 
+Client Id: 1
+Client Subscriber Status: Unsubscribed 
+Amount total: $180
+Client Balance: $-360
+Client Balance: $-360
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $180
+Professional Balance: $169.70000000000005
+ 
+ 
+Professional ID: 6
+Client ID: 1
+Time request made: 44.0
+Distance to job site: 15.81
+Service Time: 1.0
+Time Finished: 57
+Performance: 32
+
+SERVICE FINISH 
+Client Id: 19
+Client Subscriber Status: Unsubscribed 
+Amount total: $126
+Client Balance: $-398
+Client Balance: $-398
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $126
+Professional Balance: $102.69999999999999
+ 
+ 
+Professional ID: 29
+Client ID: 19
+Time request made: 45.0
+Distance to job site: 38.6
+Service Time: 1.0
+Time Finished: 58
+Performance: 4
+
+SERVICE FINISH 
+Client Id: 7
+Client Subscriber Status: Unsubscribed 
+Amount total: $102
+Client Balance: $-196
+Client Balance: $-196
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $101.85
+Professional Balance: $203.7
+ 
+ 
+Professional ID: 18
+Client ID: 7
+Time request made: 46.0
+Distance to job site: 11.18
+Service Time: 1.0
+Time Finished: 59
+Performance: 23
+
+SERVICE FINISH 
+Client Id: 5
+Client Subscriber Status: Unsubscribed, $142 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $141.85
+Professional Balance: $425.55000000000007
+ 
+ 
+Professional ID: 0
+Client ID: 5
+Time request made: 47.0
+Distance to job site: 62.17
+Service Time: 1.0
+Time Finished: 60
+Performance: 21
+
+SERVICE FINISH 
+Client Id: 19
+Client Subscriber Status: Unsubscribed 
+Amount total: $124
+Client Balance: $-522
+Client Balance: $-522
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $123.85
+Professional Balance: $495.40000000000003
+ 
+ 
+Professional ID: 9
+Client ID: 19
+Time request made: 48.0
+Distance to job site: 34.06
+Service Time: 1.0
+Time Finished: 61
+Performance: 49
+
+SERVICE FINISH 
+Client Id: 2
+Client Subscriber Status: Unsubscribed, $128 payment not needed
+Amount total: $0 
+Client Balance: $-200
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $127.85
+Professional Balance: $255.7
+ 
+ 
+Professional ID: 35
+Client ID: 2
+Time request made: 49.0
+Distance to job site: 9.43
+Service Time: 1.0
+Time Finished: 63
+Performance: 11
+
+SERVICE FINISH 
+Client Id: 8
+Client Subscriber Status: Unsubscribed, $124 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $123.85
+Professional Balance: $619.2500000000001
+ 
+ 
+Professional ID: 9
+Client ID: 8
+Time request made: 50.0
+Distance to job site: 14.04
+Service Time: 1.0
+Time Finished: 64
+Performance: 49
+
+SERVICE FINISH 
+Client Id: 0
+Client Subscriber Status: Unsubscribed, $194 payment not needed
+Amount total: $0 
+Client Balance: $-200
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $194
+Professional Balance: $582
+ 
+ 
+Professional ID: 23
+Client ID: 0
+Time request made: 51.0
+Distance to job site: 21.38
+Service Time: 1.0
+Time Finished: 66
+Performance: 25
+
+SERVICE FINISH 
+Client Id: 2
+Client Subscriber Status: Unsubscribed, $128 payment not needed
+Amount total: $0 
+Client Balance: $-200
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $127.85
+Professional Balance: $383.55
+ 
+ 
+Professional ID: 35
+Client ID: 2
+Time request made: 52.0
+Distance to job site: 9.43
+Service Time: 1.0
+Time Finished: 67
+Performance: 4
+
+SERVICE FINISH 
+Client Id: 6
+Client Subscriber Status: Unsubscribed 
+Amount total: $142
+Client Balance: $-284
+Client Balance: $-284
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $141.85
+Professional Balance: $567.4000000000001
+ 
+ 
+Professional ID: 0
+Client ID: 6
+Time request made: 53.0
+Distance to job site: 63.98
+Service Time: 1.0
+Time Finished: 68
+Performance: 22
+
+SERVICE FINISH 
+Client Id: 16
+Client Subscriber Status: Unsubscribed, $138 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $137.85
+Professional Balance: $413.55000000000007
+ 
+ 
+Professional ID: 3
+Client ID: 16
+Time request made: 54.0
+Distance to job site: 43.05
+Service Time: 1.0
+Time Finished: 70
+Performance: 15
+
+SERVICE FINISH 
+Client Id: 18
+Client Subscriber Status: Unsubscribed, $134 payment not needed
+Amount total: $0 
+Client Balance: $-400
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $134
+Professional Balance: $394.85
+ 
+ 
+Professional ID: 15
+Client ID: 18
+Time request made: 55.0
+Distance to job site: 41.77
+Service Time: 1.0
+Time Finished: 71
+Performance: 23
+
+SERVICE FINISH 
+Client Id: 19
+Client Subscriber Status: Unsubscribed 
+Amount total: $126
+Client Balance: $-648
+Client Balance: $-648
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $126
+Professional Balance: $228.7
+ 
+ 
+Professional ID: 29
+Client ID: 19
+Time request made: 56.0
+Distance to job site: 38.6
+Service Time: 1.0
+Time Finished: 72
+Performance: 4
+
+SERVICE FINISH 
+Client Id: 12
+Client Subscriber Status: Unsubscribed 
+Amount total: $196
+Client Balance: $-196
+Client Balance: $-196
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $196
+Professional Balance: $508.85
+ 
+ 
+Professional ID: 30
+Client ID: 12
+Time request made: 57.0
+Distance to job site: 26.08
+Service Time: 1.0
+Time Finished: 73
+Performance: 43
+
+SERVICE FINISH 
+Client Id: 17
+Client Subscriber Status: Unsubscribed, $142 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $142
+Professional Balance: $434.4000000000001
+ 
+ 
+Professional ID: 0
+Client ID: 17
+Time request made: 58.0
+Distance to job site: 36.8
+Service Time: 1.0
+Time Finished: 74
+Performance: 25
+
+SERVICE FINISH 
+Client Id: 13
+Client Subscriber Status: Unsubscribed, $198 payment not needed
+Amount total: $0 
+Client Balance: $-458
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $198
+Professional Balance: $198
+ 
+ 
+Professional ID: 36
+Client ID: 13
+Time request made: 59.0
+Distance to job site: 12.73
+Service Time: 1.0
+Time Finished: 76
+Performance: 46
+
+SERVICE FINISH 
+Client Id: 13
+Client Subscriber Status: Unsubscribed, $198 payment not needed
+Amount total: $0 
+Client Balance: $-458
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $198
+Professional Balance: $396
+ 
+ 
+Professional ID: 36
+Client ID: 13
+Time request made: 60.0
+Distance to job site: 12.73
+Service Time: 1.0
+Time Finished: 77
+Performance: 4
+
+SERVICE FINISH 
+Client Id: 8
+Client Subscriber Status: Unsubscribed, $82 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $82
+Professional Balance: $-29.30000000000001
+ 
+ 
+Professional ID: 11
+Client ID: 8
+Time request made: 61.0
+Distance to job site: 12.04
+Service Time: 1.0
+Time Finished: 78
+Performance: 30
+
+SERVICE FINISH 
+Client Id: 3
+Client Subscriber Status: Unsubscribed, $134 payment not needed
+Amount total: $0 
+Client Balance: $-476
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $134
+Professional Balance: $528.85
+ 
+ 
+Professional ID: 15
+Client ID: 3
+Time request made: 62.0
+Distance to job site: 47.42
+Service Time: 1.0
+Time Finished: 79
+Performance: 22
+
+SERVICE FINISH 
+Client Id: 12
+Client Subscriber Status: Unsubscribed 
+Amount total: $196
+Client Balance: $-392
+Client Balance: $-392
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $196
+Professional Balance: $429.85
+ 
+ 
+Professional ID: 30
+Client ID: 12
+Time request made: 63.0
+Distance to job site: 26.08
+Service Time: 1.0
+Time Finished: 80
+Performance: 30
+
+SERVICE FINISH 
+Client Id: 16
+Client Subscriber Status: Unsubscribed, $92 payment not needed
+Amount total: $0 
+Client Balance: $-200
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $91.85
+Professional Balance: $183.7
+ 
+ 
+Professional ID: 2
+Client ID: 16
+Time request made: 64.0
+Distance to job site: 11.7
+Service Time: 1.0
+Time Finished: 82
+Performance: 28
+
+SERVICE FINISH 
+Client Id: 3
+Client Subscriber Status: Unsubscribed, $188 payment not needed
+Amount total: $0 
+Client Balance: $-476
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $188
+Professional Balance: $188
+ 
+ 
+Professional ID: 22
+Client ID: 3
+Time request made: 65.0
+Distance to job site: 45.0
+Service Time: 1.0
+Time Finished: 83
+Performance: 3
+
+SERVICE FINISH 
+Client Id: 17
+Client Subscriber Status: Unsubscribed, $92 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $92
+Professional Balance: $0.6999999999999886
+ 
+ 
+Professional ID: 2
+Client ID: 17
+Time request made: 66.0
+Distance to job site: 37.2
+Service Time: 1.0
+Time Finished: 85
+Performance: 30
+
+SERVICE FINISH 
+Client Id: 0
+Client Subscriber Status: Unsubscribed, $124 payment not needed
+Amount total: $0 
+Client Balance: $-200
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $123.85
+Professional Balance: $743.1000000000001
+ 
+ 
+Professional ID: 9
+Client ID: 0
+Time request made: 67.0
+Distance to job site: 13.0
+Service Time: 1.0
+Time Finished: 86
+Performance: 48
+
+SERVICE FINISH 
+Client Id: 18
+Client Subscriber Status: Unsubscribed, $124 payment not needed
+Amount total: $0 
+Client Balance: $-400
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $123.85
+Professional Balance: $866.9500000000002
+ 
+ 
+Professional ID: 9
+Client ID: 18
+Time request made: 68.0
+Distance to job site: 48.51
+Service Time: 1.0
+Time Finished: 87
+Performance: 50
+
+SERVICE FINISH 
+Client Id: 1
+Client Subscriber Status: Unsubscribed 
+Amount total: $82
+Client Balance: $-442
+Client Balance: $-442
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $82
+Professional Balance: $52.69999999999999
+ 
+ 
+Professional ID: 11
+Client ID: 1
+Time request made: 69.0
+Distance to job site: 13.34
+Service Time: 1.0
+Time Finished: 88
+Performance: 29
+
+SERVICE FINISH 
+Client Id: 13
+Client Subscriber Status: Unsubscribed, $124 payment not needed
+Amount total: $0 
+Client Balance: $-458
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $124
+Professional Balance: $715.9500000000002
+ 
+ 
+Professional ID: 9
+Client ID: 13
+Time request made: 70.0
+Distance to job site: 47.01
+Service Time: 1.0
+Time Finished: 90
+Performance: 49
+
+SERVICE FINISH 
+Client Id: 16
+Client Subscriber Status: Unsubscribed, $196 payment not needed
+Amount total: $0 
+Client Balance: $-200
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $196
+Professional Balance: $625.85
+ 
+ 
+Professional ID: 30
+Client ID: 16
+Time request made: 71.0
+Distance to job site: 12.37
+Service Time: 1.0
+Time Finished: 91
+Performance: 48
+
+SERVICE FINISH 
+Client Id: 5
+Client Subscriber Status: Unsubscribed, $142 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $142
+Professional Balance: $576.4000000000001
+ 
+ 
+Professional ID: 0
+Client ID: 5
+Time request made: 72.0
+Distance to job site: 62.17
+Service Time: 1.0
+Time Finished: 92
+Performance: 22
+
+SERVICE FINISH 
+Client Id: 7
+Client Subscriber Status: Unsubscribed 
+Amount total: $74
+Client Balance: $-270
+Client Balance: $-270
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $74
+Professional Balance: $148
+ 
+ 
+Professional ID: 12
+Client ID: 7
+Time request made: 73.0
+Distance to job site: 12.04
+Service Time: 1.0
+Time Finished: 93
+Performance: 3
+
+SERVICE FINISH 
+Client Id: 8
+Client Subscriber Status: Unsubscribed, $68 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $68
+Professional Balance: $272
+ 
+ 
+Professional ID: 20
+Client ID: 8
+Time request made: 74.0
+Distance to job site: 25.08
+Service Time: 1.0
+Time Finished: 94
+Performance: 16
+
+SERVICE FINISH 
+Client Id: 18
+Client Subscriber Status: Unsubscribed, $82 payment not needed
+Amount total: $0 
+Client Balance: $-400
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $82
+Professional Balance: $134.7
+ 
+ 
+Professional ID: 11
+Client ID: 18
+Time request made: 75.0
+Distance to job site: 47.13
+Service Time: 1.0
+Time Finished: 95
+Performance: 30
+
+SERVICE FINISH 
+Client Id: 14
+Client Subscriber Status: Unsubscribed, $82 payment not needed
+Amount total: $0 
+Client Balance: $-268
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $82
+Professional Balance: $-58.30000000000001
+ 
+ 
+Professional ID: 11
+Client ID: 14
+Time request made: 76.0
+Distance to job site: 42.54
+Service Time: 1.0
+Time Finished: 96
+Performance: 24
+
+SERVICE FINISH 
+Client Id: 19
+Client Subscriber Status: Unsubscribed 
+Amount total: $82
+Client Balance: $-730
+Client Balance: $-730
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $82
+Professional Balance: $-251.3
+ 
+ 
+Professional ID: 11
+Client ID: 19
+Time request made: 77.0
+Distance to job site: 34.41
+Service Time: 1.0
+Time Finished: 97
+Performance: 32
+
+SERVICE FINISH 
+Client Id: 10
+Client Subscriber Status: Unsubscribed 
+Amount total: $124
+Client Balance: $-258
+Client Balance: $-258
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $124
+Professional Balance: $564.9500000000002
+ 
+ 
+Professional ID: 9
+Client ID: 10
+Time request made: 78.0
+Distance to job site: 44.38
+Service Time: 1.0
+Time Finished: 99
+Performance: 50
+
+SERVICE FINISH 
+Client Id: 12
+Client Subscriber Status: Unsubscribed 
+Amount total: $198
+Client Balance: $-590
+Client Balance: $-590
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $198
+Professional Balance: $319
+ 
+ 
+Professional ID: 36
+Client ID: 12
+Time request made: 79.0
+Distance to job site: 25.46
+Service Time: 1.0
+Time Finished: 100
+Performance: 27
+
+SERVICE FINISH 
+Client Id: 17
+Client Subscriber Status: Unsubscribed, $72 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $71.85
+Professional Balance: $71.85
+ 
+ 
+Professional ID: 4
+Client ID: 17
+Time request made: 80.0
+Distance to job site: 41.11
+Service Time: 1.0
+Time Finished: 101
+Performance: 3
+
+SERVICE FINISH 
+Client Id: 10
+Client Subscriber Status: Unsubscribed 
+Amount total: $134
+Client Balance: $-392
+Client Balance: $-392
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $134
+Professional Balance: $387.85
+ 
+ 
+Professional ID: 15
+Client ID: 10
+Time request made: 81.0
+Distance to job site: 25.3
+Service Time: 1.0
+Time Finished: 102
+Performance: 21
+
+SERVICE FINISH 
+Client Id: 12
+Client Subscriber Status: Unsubscribed 
+Amount total: $198
+Client Balance: $-788
+Client Balance: $-788
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $198
+Professional Balance: $517
+ 
+ 
+Professional ID: 36
+Client ID: 12
+Time request made: 82.0
+Distance to job site: 25.46
+Service Time: 1.0
+Time Finished: 103
+Performance: 20
+
+SERVICE FINISH 
+Client Id: 17
+Client Subscriber Status: Unsubscribed, $92 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $92
+Professional Balance: $-182.3
+ 
+ 
+Professional ID: 2
+Client ID: 17
+Time request made: 83.0
+Distance to job site: 37.2
+Service Time: 1.0
+Time Finished: 105
+Performance: 29
+
+SERVICE FINISH 
+Client Id: 2
+Client Subscriber Status: Unsubscribed, $128 payment not needed
+Amount total: $0 
+Client Balance: $-200
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $127.85
+Professional Balance: $511.40000000000003
+ 
+ 
+Professional ID: 35
+Client ID: 2
+Time request made: 84.0
+Distance to job site: 9.43
+Service Time: 1.0
+Time Finished: 106
+Performance: 2
+
+SERVICE FINISH 
+Client Id: 16
+Client Subscriber Status: Unsubscribed, $138 payment not needed
+Amount total: $0 
+Client Balance: $-200
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $137.85
+Professional Balance: $551.4000000000001
+ 
+ 
+Professional ID: 3
+Client ID: 16
+Time request made: 85.0
+Distance to job site: 43.05
+Service Time: 1.0
+Time Finished: 107
+Performance: 13
+
+SERVICE FINISH 
+Client Id: 17
+Client Subscriber Status: Unsubscribed, $92 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $92
+Professional Balance: $-90.30000000000001
+ 
+ 
+Professional ID: 2
+Client ID: 17
+Time request made: 86.0
+Distance to job site: 37.2
+Service Time: 1.0
+Time Finished: 109
+Performance: 30
+
+SERVICE FINISH 
+Client Id: 14
+Client Subscriber Status: Unsubscribed, $82 payment not needed
+Amount total: $0 
+Client Balance: $-268
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $82
+Professional Balance: $-169.3
+ 
+ 
+Professional ID: 11
+Client ID: 14
+Time request made: 87.0
+Distance to job site: 42.54
+Service Time: 1.0
+Time Finished: 110
+Performance: 35
+
+SERVICE FINISH 
+Client Id: 13
+Client Subscriber Status: Unsubscribed, $198 payment not needed
+Amount total: $0 
+Client Balance: $-658
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $198
+Professional Balance: $715
+ 
+ 
+Professional ID: 36
+Client ID: 13
+Time request made: 88.0
+Distance to job site: 12.73
+Service Time: 1.0
+Time Finished: 111
+Performance: 41
+
+SERVICE FINISH 
+Client Id: 9
+Client Subscriber Status: Unsubscribed, $124 payment not needed
+Amount total: $0 
+Client Balance: $0
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $124
+Professional Balance: $688.9500000000002
+ 
+ 
+Professional ID: 9
+Client ID: 9
+Time request made: 89.0
+Distance to job site: 34.93
+Service Time: 1.0
+Time Finished: 112
+Performance: 48
+
+SERVICE FINISH 
+Client Id: 13
+Client Subscriber Status: Unsubscribed, $198 payment not needed
+Amount total: $0 
+Client Balance: $-658
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $198
+Professional Balance: $913
+ 
+ 
+Professional ID: 36
+Client ID: 13
+Time request made: 90.0
+Distance to job site: 12.73
+Service Time: 1.0
+Time Finished: 114
+Performance: 1
+
+SERVICE FINISH 
+Client Id: 19
+Client Subscriber Status: Unsubscribed 
+Amount total: $82
+Client Balance: $-812
+Client Balance: $-812
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $82
+Professional Balance: $-87.30000000000001
+ 
+ 
+Professional ID: 11
+Client ID: 19
+Time request made: 91.0
+Distance to job site: 34.41
+Service Time: 1.0
+Time Finished: 115
+Performance: 28
+
+SERVICE FINISH 
+Client Id: 18
+Client Subscriber Status: Unsubscribed, $126 payment not needed
+Amount total: $0 
+Client Balance: $-400
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $126
+Professional Balance: $354.7
+ 
+ 
+Professional ID: 29
+Client ID: 18
+Time request made: 92.0
+Distance to job site: 42.72
+Service Time: 1.0
+Time Finished: 116
+Performance: 3
+
+SERVICE FINISH 
+Client Id: 1
+Client Subscriber Status: Unsubscribed 
+Amount total: $124
+Client Balance: $-566
+Client Balance: $-566
+ 
+Professional Subscriber Status: Unsubscribed, 15% paid to system as commission 
+Payment to Professional: $123.85
+Professional Balance: $371.55
+ 
+ 
+Professional ID: 28
+Client ID: 1
+Time request made: 93.0
+Distance to job site: 9.06
+Service Time: 1.0
+Time Finished: 118
+Performance: 33
+
+SERVICE FINISH 
+Client Id: 17
+Client Subscriber Status: Unsubscribed, $196 payment not needed
+Amount total: $0 
+Client Balance: $-200
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $196
+Professional Balance: $821.85
+ 
+ 
+Professional ID: 30
+Client ID: 17
+Time request made: 94.0
+Distance to job site: 37.44
+Service Time: 1.0
+Time Finished: 119
+Performance: 41
+
+SERVICE FINISH 
+Client Id: 2
+Client Subscriber Status: Unsubscribed, $94 payment not needed
+Amount total: $0 
+Client Balance: $-400
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $94
+Professional Balance: $188
+ 
+ 
+Professional ID: 5
+Client ID: 2
+Time request made: 95.0
+Distance to job site: 3.0
+Service Time: 1.0
+Time Finished: 123
+Performance: 9
+
+SERVICE FINISH 
+Client Id: 6
+Client Subscriber Status: Unsubscribed, $142 payment not needed
+Amount total: $0 
+Client Balance: $-484
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $142
+Professional Balance: $718.4000000000001
+ 
+ 
+Professional ID: 0
+Client ID: 6
+Time request made: 96.0
+Distance to job site: 63.98
+Service Time: 1.0
+Time Finished: 124
+Performance: 20
+
+SERVICE FINISH 
+Client Id: 17
+Client Subscriber Status: Unsubscribed, $92 payment not needed
+Amount total: $0 
+Client Balance: $-200
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $92
+Professional Balance: $1.6999999999999886
+ 
+ 
+Professional ID: 2
+Client ID: 17
+Time request made: 97.0
+Distance to job site: 37.2
+Service Time: 1.0
+Time Finished: 125
+Performance: 29
+
+SERVICE FINISH 
+Client Id: 15
+Client Subscriber Status: Unsubscribed, $194 payment not needed
+Amount total: $0 
+Client Balance: $-574
+ 
+Professional Subscriber Status: Subscribed, 15% paid to system as commission 
+Payment to Professional: $194
+Professional Balance: $776
+ 
+ 
+Professional ID: 23
+Client ID: 15
+Time request made: 98.0
+Distance to job site: 23.09
+Service Time: 1.0
+Time Finished: 127
+Performance: 25
+
+Subscriptions: 
+Professional Id: 30
+Time: 2
+Cost: 275
+Balance: -79.15
+
+Client Id: 13
+Time: 4
+Cost: 200
+Balance: -458
+
+Professional Id: 15
+Time: 4
+Cost: 275
+Balance: -141.15
+
+Client Id: 14
+Time: 5
+Cost: 200
+Balance: -268
+
+Client Id: 11
+Time: 11
+Cost: 200
+Balance: -200
+
+Client Id: 2
+Time: 13
+Cost: 200
+Balance: -200
+
+Client Id: 0
+Time: 23
+Cost: 200
+Balance: -200
+
+Client Id: 15
+Time: 24
+Cost: 200
+Balance: -574
+
+Professional Id: 7
+Time: 31
+Cost: 275
+Balance: -71.30000000000001
+
+Client Id: 11
+Time: 37
+Cost: 200
+Balance: -400
+
+Professional Id: 6
+Time: 37
+Cost: 275
+Balance: 84.70000000000005
+
+Professional Id: 11
+Time: 38
+Cost: 275
+Balance: -111.30000000000001
+
+Professional Id: 6
+Time: 39
+Cost: 275
+Balance: -10.299999999999955
+
+Professional Id: 7
+Time: 43
+Cost: 275
+Balance: -244.3
+
+Client Id: 18
+Time: 46
+Cost: 200
+Balance: -200
+
+Client Id: 3
+Time: 48
+Cost: 200
+Balance: -476
+
+Professional Id: 19
+Time: 48
+Cost: 275
+Balance: -91.15
+
+Client Id: 18
+Time: 52
+Cost: 200
+Balance: -400
+
+Professional Id: 29
+Time: 55
+Cost: 275
+Balance: -23.30000000000001
+
+Client Id: 6
+Time: 68
+Cost: 200
+Balance: -484
+
+Professional Id: 0
+Time: 68
+Cost: 275
+Balance: 292.4000000000001
+
+Client Id: 16
+Time: 70
+Cost: 200
+Balance: -200
+
+Professional Id: 30
+Time: 73
+Cost: 275
+Balance: 233.85000000000002
+
+Professional Id: 36
+Time: 77
+Cost: 275
+Balance: 121
+
+Professional Id: 15
+Time: 79
+Cost: 275
+Balance: 253.85000000000002
+
+Professional Id: 2
+Time: 82
+Cost: 275
+Balance: -91.30000000000001
+
+Professional Id: 2
+Time: 85
+Cost: 275
+Balance: -274.3
+
+Professional Id: 9
+Time: 87
+Cost: 275
+Balance: 591.9500000000002
+
+Client Id: 13
+Time: 90
+Cost: 200
+Balance: -658
+
+Professional Id: 9
+Time: 90
+Cost: 275
+Balance: 440.95000000000016
+
+Client Id: 5
+Time: 92
+Cost: 200
+Balance: -200
+
+Client Id: 8
+Time: 94
+Cost: 200
+Balance: -200
+
+Professional Id: 11
+Time: 95
+Cost: 275
+Balance: -140.3
+
+Professional Id: 11
+Time: 96
+Cost: 275
+Balance: -333.3
+
+Client Id: 10
+Time: 102
+Cost: 200
+Balance: -592
+
+Professional Id: 15
+Time: 102
+Cost: 275
+Balance: 112.85000000000002
+
+Client Id: 12
+Time: 103
+Cost: 200
+Balance: -988
+
+Client Id: 2
+Time: 106
+Cost: 200
+Balance: -400
+
+Client Id: 17
+Time: 109
+Cost: 200
+Balance: -200
+
+Client Id: 14
+Time: 110
+Cost: 200
+Balance: -468
+
+Client Id: 13
+Time: 114
+Cost: 200
+Balance: -858
+
+Professional Id: 36
+Time: 114
+Cost: 275
+Balance: 638
+
+Professional Id: 11
+Time: 115
+Cost: 275
+Balance: -362.3
+
+Client Id: 1
+Time: 118
+Cost: 200
+Balance: -766
+
+Professional Id: 30
+Time: 119
+Cost: 275
+Balance: 546.85
+
+Professional Id: 5
+Time: 123
+Cost: 275
+Balance: -87
+
+Professionals: 
+Professional Id: 0
+Subscriber Status: Subscribed 
+Skill: 23
+Reliability: 37
+Speed: 22
+Amount of jobs serviced: 7
+Average Rating: 20
+
+Professional Id: 1
+Subscriber Status: Subscribed 
+Skill: 6
+Reliability: 19
+Speed: 24
+Amount of jobs serviced: 0
+Average Rating: 0
+
+Professional Id: 2
+Subscriber Status: Subscribed 
+Skill: 29
+Reliability: 45
+Speed: 42
+Amount of jobs serviced: 6
+Average Rating: 28
+
+Professional Id: 3
+Subscriber Status: Unsubscribed 
+Skill: 19
+Reliability: 14
+Speed: 50
+Amount of jobs serviced: 4
+Average Rating: 14
+
+Professional Id: 4
+Subscriber Status: Unsubscribed 
+Skill: 4
+Reliability: 43
+Speed: 9
+Amount of jobs serviced: 1
+Average Rating: 3
+
+Professional Id: 5
+Subscriber Status: Subscribed 
+Skill: 4
+Reliability: 10
+Speed: 42
+Amount of jobs serviced: 2
+Average Rating: 5
+
+Professional Id: 6
+Subscriber Status: Subscribed 
+Skill: 30
+Reliability: 14
+Speed: 15
+Amount of jobs serviced: 4
+Average Rating: 28
+
+Professional Id: 7
+Subscriber Status: Subscribed 
+Skill: 7
+Reliability: 23
+Speed: 44
+Amount of jobs serviced: 4
+Average Rating: 5
+
+Professional Id: 8
+Subscriber Status: Unsubscribed 
+Skill: 24
+Reliability: 23
+Speed: 11
+Amount of jobs serviced: 0
+Average Rating: 0
+
+Professional Id: 9
+Subscriber Status: Subscribed 
+Skill: 49
+Reliability: 24
+Speed: 45
+Amount of jobs serviced: 10
+Average Rating: 47
+
+Professional Id: 10
+Subscriber Status: Subscribed 
+Skill: 34
+Reliability: 43
+Speed: 42
+Amount of jobs serviced: 0
+Average Rating: 0
+
+Professional Id: 11
+Subscriber Status: Subscribed 
+Skill: 31
+Reliability: 17
+Speed: 12
+Amount of jobs serviced: 9
+Average Rating: 28
+
+Professional Id: 12
+Subscriber Status: Subscribed 
+Skill: 2
+Reliability: 21
+Speed: 17
+Amount of jobs serviced: 2
+Average Rating: 3
+
+Professional Id: 13
+Subscriber Status: Subscribed 
+Skill: 43
+Reliability: 49
+Speed: 9
+Amount of jobs serviced: 0
+Average Rating: 0
+
+Professional Id: 14
+Subscriber Status: Unsubscribed 
+Skill: 36
+Reliability: 11
+Speed: 27
+Amount of jobs serviced: 0
+Average Rating: 0
+
+Professional Id: 15
+Subscriber Status: Subscribed 
+Skill: 23
+Reliability: 49
+Speed: 5
+Amount of jobs serviced: 7
+Average Rating: 21
+
+Professional Id: 16
+Subscriber Status: Unsubscribed 
+Skill: 22
+Reliability: 2
+Speed: 44
+Amount of jobs serviced: 0
+Average Rating: 0
+
+Professional Id: 17
+Subscriber Status: Subscribed 
+Skill: 35
+Reliability: 25
+Speed: 33
+Amount of jobs serviced: 1
+Average Rating: 33
+
+Professional Id: 18
+Subscriber Status: Unsubscribed 
+Skill: 23
+Reliability: 35
+Speed: 21
+Amount of jobs serviced: 2
+Average Rating: 22
+
+Professional Id: 19
+Subscriber Status: Subscribed 
+Skill: 3
+Reliability: 7
+Speed: 48
+Amount of jobs serviced: 1
+Average Rating: 1
+
+Professional Id: 20
+Subscriber Status: Subscribed 
+Skill: 23
+Reliability: 8
+Speed: 17
+Amount of jobs serviced: 4
+Average Rating: 25
+
+Professional Id: 21
+Subscriber Status: Unsubscribed 
+Skill: 31
+Reliability: 28
+Speed: 17
+Amount of jobs serviced: 0
+Average Rating: 0
+
+Professional Id: 22
+Subscriber Status: Subscribed 
+Skill: 4
+Reliability: 45
+Speed: 16
+Amount of jobs serviced: 1
+Average Rating: 3
+
+Professional Id: 23
+Subscriber Status: Subscribed 
+Skill: 26
+Reliability: 50
+Speed: 25
+Amount of jobs serviced: 4
+Average Rating: 25
+
+Professional Id: 24
+Subscriber Status: Subscribed 
+Skill: 31
+Reliability: 27
+Speed: 45
+Amount of jobs serviced: 0
+Average Rating: 0
+
+Professional Id: 25
+Subscriber Status: Subscribed 
+Skill: 9
+Reliability: 25
+Speed: 43
+Amount of jobs serviced: 0
+Average Rating: 0
+
+Professional Id: 26
+Subscriber Status: Unsubscribed 
+Skill: 17
+Reliability: 4
+Speed: 19
+Amount of jobs serviced: 0
+Average Rating: 0
+
+Professional Id: 27
+Subscriber Status: Unsubscribed 
+Skill: 25
+Reliability: 1
+Speed: 17
+Amount of jobs serviced: 4
+Average Rating: 1
+
+Professional Id: 28
+Subscriber Status: Unsubscribed 
+Skill: 30
+Reliability: 23
+Speed: 41
+Amount of jobs serviced: 3
+Average Rating: 29
+
+Professional Id: 29
+Subscriber Status: Subscribed 
+Skill: 2
+Reliability: 30
+Speed: 14
+Amount of jobs serviced: 5
+Average Rating: 2
+
+Professional Id: 30
+Subscriber Status: Subscribed 
+Skill: 49
+Reliability: 6
+Speed: 18
+Amount of jobs serviced: 7
+Average Rating: 42
+
+Professional Id: 31
+Subscriber Status: Subscribed 
+Skill: 20
+Reliability: 7
+Speed: 30
+Amount of jobs serviced: 1
+Average Rating: 15
+
+Professional Id: 32
+Subscriber Status: Subscribed 
+Skill: 24
+Reliability: 46
+Speed: 21
+Amount of jobs serviced: 0
+Average Rating: 0
+
+Professional Id: 33
+Subscriber Status: Subscribed 
+Skill: 35
+Reliability: 15
+Speed: 13
+Amount of jobs serviced: 0
+Average Rating: 0
+
+Professional Id: 34
+Subscriber Status: Unsubscribed 
+Skill: 44
+Reliability: 15
+Speed: 47
+Amount of jobs serviced: 0
+Average Rating: 0
+
+Professional Id: 35
+Subscriber Status: Unsubscribed 
+Skill: 3
+Reliability: 14
+Speed: 19
+Amount of jobs serviced: 4
+Average Rating: 5
+
+Professional Id: 36
+Subscriber Status: Subscribed 
+Skill: 32
+Reliability: 2
+Speed: 44
+Amount of jobs serviced: 6
+Average Rating: 21
+
+Professional Id: 37
+Subscriber Status: Unsubscribed 
+Skill: 19
+Reliability: 49
+Speed: 2
+Amount of jobs serviced: 0
+Average Rating: 0
+
+Professional Id: 38
+Subscriber Status: Unsubscribed 
+Skill: 32
+Reliability: 3
+Speed: 30
+Amount of jobs serviced: 0
+Average Rating: 0
+
+Professional Id: 39
+Subscriber Status: Subscribed 
+Skill: 12
+Reliability: 19
+Speed: 21
+Amount of jobs serviced: 0
+Average Rating: 0
+

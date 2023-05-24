@@ -1,14 +1,14 @@
 class User:
-    def __init__(self, id, name, balance, subscriber, xcoord, ycoord):
+    def __init__(self, id, name, subscriber, xcoord, ycoord):
         self.id = id
         self.name = name
-        self.balance = balance
+        self.balance = 0
         self.subscriber = subscriber
         self.xcoord = xcoord
         self.ycoord = ycoord
 
     def getId(self):
-        return self.id
+        return int(self.id)
         
     def setId(self, id):
         self.id = id
@@ -19,26 +19,26 @@ class User:
     def setName(self, name):
         self.name = name
         
-    def getBal(self):
+    def getBalance(self):
         return self.balance
     
-    def setBal(self, balance):
+    def setBalance(self, balance):
         self.balance = balance   
         
-    def subStatus(self):
-        return self.subscriber
+    def getSubStatus(self):
+        return int(self.subscriber)
     
     def setSubStatus(self, isSubbed):
         self.subscriber = isSubbed
         
     def getXCoord(self):
-        return self.xcoord
+        return float(self.xcoord)
     
     def setXCoord(self, xcoord):
         self.xcoord = xcoord
         
     def getYCoord(self):
-        return self.ycoord
+        return float(self.ycoord)
     
     def setYCoord(self, ycoord):
         self.ycoord = ycoord

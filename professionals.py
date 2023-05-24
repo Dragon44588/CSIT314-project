@@ -2,10 +2,10 @@ from users import User
 from math import sqrt
 
 class Professional(User):
-    def __init__(self, id, balance, subscriber, xcoord, ycoord, currentEvent, nextEvent, skill, reliability, speed, rating, amountRated, trade):
-
+    def __init__(self, id, name, subscriber, xcoord, ycoord, skill, reliability, speed, price, trade):
         self.id = id
-        self.balance = balance
+        self.name = name
+        self.balance = 0
         self.subscriber = subscriber
         self.xcoord = xcoord
         self.ycoord = ycoord
@@ -16,46 +16,65 @@ class Professional(User):
         self.speed = speed
         self.rating = 0
         self.amountRated = 0
+        self.price = price
         self.trade = trade
         
     def __repr__(self):
-        return "{},{},{},{},{},{},{},{},{},{},{},{},{},{}".format(self.id, self.name, self.balance, self.subscriber, self.xcoord, self.ycoord, self.nextEvent, self.currentEvent, self.skill, self.reliability, self.speed, self.rating, self.amountRated, self.trade)
-        
+        return "{},{},{},{},{},{},{},{},{},{}".format(self.id, self.name, self.subscriber, self.xcoord, self.ycoord, self.skill, self.reliability, self.speed, self.price, self.trade)
+
     def getSkill(self):
-        return self.skill
+        return int(self.skill)
     
     def setSkill(self, skill):
         self.skill = skill
         
     def getReliability(self):
-        return self.reliability
+        return int(self.reliability)
     
     def setReliability(self, reliability):
         self.reliability = reliability
         
     def getSpeed(self):
-        return self.speed
+        return int(self.speed)
     
     def setSpeed(self, speed):
         self.speed = speed
 
-    def getcurrentEvent(self):
+    def getRating(self):
+        return int(self.rating)
+    
+    def setRating(self, rating):
+        self.rating = rating
+    
+    def getAmountRated(self):
+        return int(self.amountRated)
+    
+    def setAmountRated(self, amountRated):
+        self.amountRated = amountRated
+
+    def getCurrentEvent(self):
         return self.nextEvent
     
-    def setcurrentEvent(self, currentEvent):
+    def setCurrentEvent(self, currentEvent):
         self.currentEvent = currentEvent
-
+ 
     def getNextEvent(self):
         return self.nextEvent
     
     def setNextEvent(self, nextEvent):
         self.nextEvent = nextEvent
 
+    def getPrice(self):
+        return int(self.price)
+    
+    def setTrade(self, price):
+        self.price = price
+
     def getTrade(self):
-        return self.trade
+        return int(self.trade)
     
     def setTrade(self, trade):
         self.trade = trade
-
+    
     def calculateTravel(self, clientXCoord, clientYCoord):
         return round(sqrt((clientXCoord - self.xcoord)**2 + (clientYCoord - self.ycoord)**2), 2)

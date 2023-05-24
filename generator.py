@@ -42,21 +42,22 @@ buisnessNames = ['concrete', 'brickies', 'carpentry', 'lumber', 'jims constructi
 buisnessTags = ['Inc', 'PTY LTD', 'LTD', 'Limited']
 
 def generator(numUsers, numPros, numEvents):
-    ID = 1
+    clientID = 0
+    tradieID = 0
     clients = []
     professionals = []
     events = []
     time = 0
     
     for i in range(0, numUsers):
-        client = generateUser(ID)
+        client = generateUser(clientID)
         clients.append(client)
-        ID += 1    
+        clientID += 1    
     
     for i in range(0, numPros):
-        professional = generateProfessionals(ID)
+        professional = generateProfessionals(tradieID)
         professionals.append(professional)
-        ID += 1
+        tradieID += 1
         
     for i in range(0, numEvents):
         newTime = (100/numEvents)
@@ -85,19 +86,21 @@ def generator(numUsers, numPros, numEvents):
 
 def generateUser(id):
         name = ("{} {}".format(random.choice(userNames), random.choice(userNames)))
-        return Client(id, name, 100, random.randint(0,1), random.randint(0, 100), random.randint(0, 100))
+        return Client(id, name, random.randint(0,1), random.randint(0, 100), random.randint(0, 100))
 
 def generateProfessionals(id):
     name = ("{} {}".format(random.choice(buisnessNames), random.choice(buisnessTags)))
-    return Professional(id, name, 100, random.randint(0,1), random.randint(0, 100), random.randint(0, 100), random.randint(0, 100), random.randint(0, 100), random.randint(0, 100), random.randint(0, 4))
-
+    return Professional(id, name, random.randint(0,1), random.randint(0, 100), random.randint(0, 100), random.randint(1, 50), random.randint(1, 50), random.randint(1, 50), random.randint(25, 100)*2, random.randint(0, 4))
 
 def generateEvents(clients, time, newTime):
-    return(random.choice(clients).getId(), time, newTime, (50 + random.randint(0, 50)), random.randint(0, 4))
+    return Event(random.choice(clients).getId(), time, newTime, random.randint(0, 4))
 
 
 if __name__ == "__main__":
-    c = int(input("Number of Clients: "))
-    t = int(input("Number of Tradies: "))
-    e = int(input("Number of Events: "))
+    #c = int(input("Number of Clients: "))
+    #t = int(input("Number of Tradies: "))
+    #e = int(input("Number of Events: "))
+    c = 20
+    t = 40
+    e = 100
     generator(c, t, e)
