@@ -3,20 +3,23 @@ from math import sqrt
 
 class Professional(User):
     def __init__(self, id, balance, subscriber, xcoord, ycoord, currentEvent, nextEvent, skill, reliability, speed, rating, amountRated, trade):
+
         self.id = id
         self.balance = balance
         self.subscriber = subscriber
         self.xcoord = xcoord
         self.ycoord = ycoord
-        self.currentEvent = currentEvent
-        self.nextEvent = nextEvent
+        self.nextEvent = None
+        self.currentEvent = None
         self.skill = skill
         self.reliability = reliability
         self.speed = speed
-        self.rating = rating
-        self.amountRated = amountRated
+        self.rating = 0
+        self.amountRated = 0
         self.trade = trade
-
+        
+    def __repr__(self):
+        return "{},{},{},{},{},{},{},{},{},{},{},{},{},{}".format(self.id, self.name, self.balance, self.subscriber, self.xcoord, self.ycoord, self.nextEvent, self.currentEvent, self.skill, self.reliability, self.speed, self.rating, self.amountRated, self.trade)
         
     def getSkill(self):
         return self.skill
@@ -47,7 +50,7 @@ class Professional(User):
     
     def setNextEvent(self, nextEvent):
         self.nextEvent = nextEvent
-    
+
     def getTrade(self):
         return self.trade
     
