@@ -97,7 +97,7 @@ def generateEvents(clients, time, newTime):
 
 
 if __name__ == "__main__":
-    c = int(input("Number of Clients: "))
-    t = int(input("Number of Tradies: "))
-    e = int(input("Number of Events: "))
-    generator(c, t, e)
+    clients = int(input("Number of Clients: "))
+    tradies = int(input("Number of Tradies: "))
+    events = int(input("Number of Events: "))
+    generator(clients, tradies, events)

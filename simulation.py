@@ -92,6 +92,3 @@ class Simulation(User):
 
             else:
                 self.enqueue(professional, x)
-
-
-
