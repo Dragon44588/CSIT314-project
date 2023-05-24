@@ -1,5 +1,7 @@
 class Event:
-    def __init__(self, clientId, startTime, serviceTime, performance, trade):
+
+    def __init__(self, clientId, startTime, serviceTime, performance, nextEvent, trade):
+
         self.clientId = clientId
         self.startTime = startTime
         self.serviceTime = serviceTime
@@ -9,11 +11,12 @@ class Event:
 
     def __repr__(self):
         return "{},{},{},{},{},{}".format(self.clientId, self.startTime, self.serviceTime, self.performance, self.nextEvent, self.trade)
-        
 
     def getClientId(self):
         return self.clientId
     
+    #Start time does not refer to the time that an event starts being processed but instead the time the event enters the system
+    # i.e. The time the event enters the first come first serve queue
     def getStartTime(self):
         return self.startTime
     
