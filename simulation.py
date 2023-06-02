@@ -6,6 +6,11 @@ from math import sqrt
 import random
 from numpy import random
 
+positiveNouns = ['good', 'great', 'amazing', 'fantastic','superb','excellent','incredible','nice','impressive','extraordinary']
+negativeNouns = ['bad','poor','awful','unimpressive','terrible','horrible']
+startReview = ['The performance was absolutely ', 'Overall the job was ', 'I think this professional is ', 'One word: ', 'I think the outcome was ', 'Personally this professional is ']
+
+
 #client and prof subcost are global variables indicating the price to pay to subscribe
 clientsubcost = 200
 profsubcost = 275
@@ -85,9 +90,10 @@ class Simulation(User):
 
     def finishService(self, professional):
         results = ""
+        textreview = ""
         event = professional.currentEvent
         client = self.clients[int(event.clientId)]
-        #when the finish time has come for the next professional with a job they get rated, they take dequeue their next job and start working on it if applicable and the next professional to finish is found
+        #when the finish time has come for the next professional with a job they get rated, they take dequeue their next job and start working on it if applicable and the next professional to finish is foun
 
         #Creates a normal distribution to get performance. Reliability affects the flatness of the curve and skill changes the mean.
         rawperformance = max(1,min(50,random.normal(loc=int(professional.skill), scale=50/int(professional.reliability), size=(1))))
@@ -98,6 +104,10 @@ class Simulation(User):
         professional.setRating((professional.getRating()*professional.getAmountRated() + performance) / (professional.getAmountRated()+1))
         professional.setAmountRated(professional.getAmountRated()+1)
         
+        if performance < 30:
+            textreview = random.choice(startReview) + random.choice(negativeNouns)
+        else:
+            textreview = random.choice(startReview) + random.choice(positiveNouns)
         #If the professional has nothing left in his queue they are no longer busy.
         if professional.getNextEvent() == None:
             professional.setCurrentEvent(None)
@@ -107,11 +117,13 @@ class Simulation(User):
 
         results += "Professional ID: " + str(professional.getId()) + "\n"
         results += "Client ID: " + str(client.id) + "\n"
+        results += "Client Name: " + str(client.name) + "\n"
         results += "Time request made: " + str(event.getStartTime()) + "\n" 
         results += "Distance to job site: " + str(self.calculateTravel(professional, event)) + "\n"
         results += "Service Time: " + str(event.getServiceTime()) + "\n"
         results += "Time Finished: " + str(event.getEndTime()) + "\n"
-        results += "Performance: " + str(event.getPerformance()) + "\n\n"
+        results += "Performance: " + str(event.getPerformance()) + "\n"
+        results += "Review: "+ textreview + "\n\n"
         self.servicereport += results
         
 
@@ -164,6 +176,7 @@ class Simulation(User):
         results = ""
         for professional in self.professionals:
             results += "Professional Id: " + str(professional.getId()) + "\n"
+            results += "Professional Name: " + str(professional.name) + "\n"
             if professional.getSubStatus() == 1:
                 results += "Subscriber Status: Subscribed \n"
             else:
